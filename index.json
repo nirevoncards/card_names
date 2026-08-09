@@ -1,0 +1,2886 @@
+{
+  "schema": 2,
+  "updatedAt": "2026-08-09",
+  "countries": [
+    {
+      "code": "AD",
+      "file": "brands/AD/brands_AD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "dffba9bc8d25ccf1041df83cdca83810a998996b11e5935f76d66faf6bd144be",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AD/geo_AD.zip",
+        "sha256": "30f79b7491feb3daf2b94ded5057ff33f1c9f7de50a8c4ba3359050ca03927ef",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "AF",
+      "file": "brands/AF/brands_AF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "3032953bf730db0ddd8006da07070758145410b2ead087a12dac6699d550b628",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AF/geo_AF.zip",
+        "sha256": "891c5f6d91bd2729df240059bf0d084610bf6aa06140e8c685368552a54b784d",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "AL",
+      "file": "brands/AL/brands_AL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "90d78330a0c5149221ef4e28ca0deb375ae4f4c49b4772935c48b2ee38bffc14",
+      "items": 120,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AL/geo_AL.zip",
+        "sha256": "f1cf292d983b7d855f5e36f7f6733a130deec721fedd70034a1a0be9355264a8",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "AM",
+      "file": "brands/AM/brands_AM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "a3c6b40df8e51ad4de2e550242f37b4dac742bb8a647529f097eef2e88c2f962",
+      "items": 159,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AM/geo_AM.zip",
+        "sha256": "fa1b97eb6de57c2ef24fcf8a859a799536a5ea220ec997bbcfee7695459aea3f",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "AO",
+      "file": "brands/AO/brands_AO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "c61153d3449055bb2a13015817ead4bd6156ba0db9cac99fe56dcb65fbfe905a",
+      "items": 84,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AO/geo_AO.zip",
+        "sha256": "37588ceba6e6530ba9fa3a34ed4f92c702bdad26bd372dd09dd2c1de7b7e87e3",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "AR",
+      "file": "brands/AR/brands_AR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "43544fed886c19e3f0179276b195b0c368b59fbfa3be97c43a62a88fe39f8303",
+      "items": 365,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AR/geo_AR.zip",
+        "sha256": "429bbdb3a751f6ca89df25c0ddfef492f6242ffc8fffe0f921746863ab839193",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "AT",
+      "file": "brands/AT/brands_AT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "c2480324e75567caccc733ff548507ff7a61c493ed51cf548f19790632647059",
+      "items": 768,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AT/geo_AT.zip",
+        "sha256": "b682a1b3e2d72f39d26efa9117dd86aedf02f9d5161e2ba53f4bed0907dda373",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "AU",
+      "file": "brands/AU/brands_AU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e057c1228906e343c78a58606e0af953c06fe513b3a163fa9b3d801ac8a408d5",
+      "items": 884,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AU/geo_AU.zip",
+        "sha256": "0fd752ccc03dc6d24fa8baca4e3826357dae8a868d6a63e2c6c6caa08e5a044a",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "AZ",
+      "file": "brands/AZ/brands_AZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "66ed7c06577af55dbfa9c8779e3a2de1c77be4e62b747f9c8fce816e33314ba9",
+      "items": 143,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AZ/geo_AZ.zip",
+        "sha256": "f998bfa862e01a40f39379547cfb7aa2c45b1431bd3740661f0037a4b2f58a57",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "BA",
+      "file": "brands/BA/brands_BA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "187298a46698a850918f43c9aeae5a2c2f827e5a0e08abda75ae411985b920cb",
+      "items": 175,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BA/geo_BA.zip",
+        "sha256": "71ee02cd04cc6cf17986af9f6508ef9336512171460785ddf8b52bdf90ac7d1d",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
+      "code": "BD",
+      "file": "brands/BD/brands_BD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "134f254a4c7049b00d53e6475b610c7ced4101e47e1abd26e990b87778683ac3",
+      "items": 85,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BD/geo_BD.zip",
+        "sha256": "00ac9242395237d7153fd7bb2c69f1260802ff344b27fc9c2d04fe0e262993eb",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
+      "code": "BE",
+      "file": "brands/BE/brands_BE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "45bdc7831435d7968bf7d46d3ad3daf543aa53cdefa3df3e77e8d6295a26eeab",
+      "items": 846,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BE/geo_BE.zip",
+        "sha256": "20ac2f6f55cfbfc1dab84f55979a3b4ae04f421dda6c5df6e2d52fad10584ac1",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "BF",
+      "file": "brands/BF/brands_BF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "cc98a8d2f5bb509b03fd796ec74c5cd7047076c1d274807c3fac99c8ea71963f",
+      "items": 12,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BF/geo_BF.zip",
+        "sha256": "f4b37aea9570e5a3b675aaa597a977c8bd47be9b2e8377011be44feb8f4276d8",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "BG",
+      "file": "brands/BG/brands_BG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "4e7724eb8d5450a6e714574e43b880b81fd8d0f1d211d0a3dc99af19df69bd79",
+      "items": 443,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BG/geo_BG.zip",
+        "sha256": "f55313140edca0e90124bf78f7998a5b8525b9dc783687df31ac9e5c431e3340",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
+      "code": "BI",
+      "file": "brands/BI/brands_BI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "2d4497706dcde1d129f9d26c5775412c933db25e3e6aef103961b01320f5cb7b",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BI/geo_BI.zip",
+        "sha256": "44a2bc29e5f79c4561b694f3952d54b35f104c81bc517cc0192a202e2906c830",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "BJ",
+      "file": "brands/BJ/brands_BJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "420da6becd2de528b63431890796441fb8233639fda553a35db12f946e23d90c",
+      "items": 17,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BJ/geo_BJ.zip",
+        "sha256": "768b3e1aea7fb595220c3e1eb2666760e689c02fdbaee0ab2e5c9ba75bdd40b8",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "BM",
+      "file": "brands/BM/brands_BM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "77045705abb2d6d1a1fa1c12ce5f84748763f69a288c944eef619e4dbe60b350",
+      "items": 10,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BM/geo_BM.zip",
+        "sha256": "9f51cf4e17975c7aeced5cbd92af1ea52a23a6e6bc141625f3ae6f3c395f6cf3",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
+      "code": "BO",
+      "file": "brands/BO/brands_BO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "aaacd0c8b4bc64ccdeb048573e95802ae0c728ac82b43af514849417185a4de0",
+      "items": 127,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BO/geo_BO.zip",
+        "sha256": "9708a524f27c704c59fb6d474263c76f917765359f68180581e87728194e442e",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "BR",
+      "file": "brands/BR/brands_BR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "a5a0773e448d3eb086800b914b55b0f271bf7faa86860928bca25ef9f37f6a26",
+      "items": 568,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BR/geo_BR.zip",
+        "sha256": "e2d8750a4f7d929991c9a6383ff9212587bb5ebfe46770effe39b9be0b3b93c2",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "BS",
+      "file": "brands/BS/brands_BS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e1e197a89bef1f895a3f7ff69f8788ac3a08a8a9a26f70b80084f2953f8f4482",
+      "items": 48,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BS/geo_BS.zip",
+        "sha256": "292d12c4e61dc5ab4a33b68ed8deae3df582f3e8e3383f0c579d908912391578",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "BT",
+      "file": "brands/BT/brands_BT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "7454504d6d81948c99609b56bca4ba0fefedc46dcc5483c6ce253ce3706fc683",
+      "items": 16,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BT/geo_BT.zip",
+        "sha256": "82773d654b928c03b094a254c203adb34900eb9758f8cca0d999c77a197295f3",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
+      "code": "BW",
+      "file": "brands/BW/brands_BW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "5fa2d0a668a0bb2c835f59cd1ae1cde9d68b003a950a78618f2f142e47fd7c58",
+      "items": 66,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BW/geo_BW.zip",
+        "sha256": "ae2e14b6e79174ef4e2681b7ca5eb49ec8f7370594b958eeb58527a11123c97b",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "BY",
+      "file": "brands/BY/brands_BY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-17",
+      "sha256": "80ea38f7ee84e1dd6bc4ad5606e6c77de2f2debe26f69ff0c33a78336b7ae5a3",
+      "items": 560,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BY/geo_BY.zip",
+        "sha256": "bff2e5a7666a6b6ac48e8fd06365f449c58235adfeb4dfc2a84976775b65c716",
+        "schema": 2,
+        "updatedAt": "2026-07-17"
+      }
+    },
+    {
+      "code": "BZ",
+      "file": "brands/BZ/brands_BZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "bedcdf8f4865a21b73bc1776b35105b535152db3d75dcd9817a93eb6f899621b",
+      "items": 24,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BZ/geo_BZ.zip",
+        "sha256": "19e918dd3c4cea036595a3681119dd6770d6ecd55bc193720910c982c3727d54",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "CA",
+      "file": "brands/CA/brands_CA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-05",
+      "sha256": "eb17519a29cef425b6cef4e84c4746ecd4c4821764c7fc6e571c4a4459436e28",
+      "items": 1287,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CA/geo_CA.zip",
+        "sha256": "fbdc538e45b98cefba5d78f3e8205b14ef0549653d03ee967f54de3b01a82655",
+        "schema": 2,
+        "updatedAt": "2026-08-05"
+      }
+    },
+    {
+      "code": "CD",
+      "file": "brands/CD/brands_CD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "b7dbd4427a4bc1b685f11ce48e30f4c5e0ec64f66878d1fa1677faee7c561598",
+      "items": 41,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CD/geo_CD.zip",
+        "sha256": "d4eef0211be6db3a0926a666e1cce993fabe9ae382eac6a39879994012f8c120",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CF",
+      "file": "brands/CF/brands_CF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "324b4dd218274414ecaf323dcd1954a7b1822b4346a40df1c8d7774388ad17e4",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CF/geo_CF.zip",
+        "sha256": "c574c61417dbc25c390c0f0aacaa81dda36876a07f026c0021354df28b7ff188",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CG",
+      "file": "brands/CG/brands_CG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "c4d69411b54d7ccc8636903367f557d06de934c09698bd24b2944943d5e19123",
+      "items": 20,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CG/geo_CG.zip",
+        "sha256": "a253ff10926f37ee8dfafc72046c189d06b976673a8d8cd05d21e5198caea881",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CH",
+      "file": "brands/CH/brands_CH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-05",
+      "sha256": "ea56e1d92c43afa85a2faa56c6ef5f285b370d700b1e7ae8cb0d18cd36a61c04",
+      "items": 804,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CH/geo_CH.zip",
+        "sha256": "170df814a15f37553941e3cfabc31c4cfbf2e6f9bf064183bc2b64574155297d",
+        "schema": 2,
+        "updatedAt": "2026-08-05"
+      }
+    },
+    {
+      "code": "CI",
+      "file": "brands/CI/brands_CI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "68f95015a92d410fdf595fa4cea9693a8bf693ff1f3a726480ad75b5d481973c",
+      "items": 85,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CI/geo_CI.zip",
+        "sha256": "b0540c906d4b409a732ed12de69fa4665e845369b8194f675c950ace4daf552d",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CK",
+      "file": "brands/CK/brands_CK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "5e981da54881ea27dbac03925e20600d9fa136e5f5778855776cc83c8d5edb5c",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CK/geo_CK.zip",
+        "sha256": "0aec029a8cb8afaa5351799c7ee027f58bb7e60add63ab5cb6fb02e3e082d82f",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "CL",
+      "file": "brands/CL/brands_CL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "884f21002b42a80d8fbd9e9c56f07f15ad3d86648fb7c02c70e209ece0df332f",
+      "items": 377,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CL/geo_CL.zip",
+        "sha256": "f6fa3dd55897f57c389f09db14f30d6142a29f7a1f5da563b17f6ebda7d59d26",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "CM",
+      "file": "brands/CM/brands_CM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "ba3f3b87ae53101501487f78d895495363f10f12fe7a529497d573caae33e3f8",
+      "items": 94,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CM/geo_CM.zip",
+        "sha256": "f73f8578b37c69a1f0166ca9d93e7d66eb50689bebf05f87f14bae7125ac2bcb",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CN",
+      "file": "brands/CN/brands_CN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-21",
+      "sha256": "47f5f77a537bebf152921ce644806bcc1f136455683e15358e92174feb04af88",
+      "items": 1005,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CN/geo_CN.zip",
+        "sha256": "2abf9a3d13a1323d2f4ca011cd724a862044106deca9c7c0e0deee54ee57e183",
+        "schema": 2,
+        "updatedAt": "2026-07-21"
+      }
+    },
+    {
+      "code": "CO",
+      "file": "brands/CO/brands_CO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "313a051f66cc5aab78c4924f0553d67f5093211e4cb30d332af625e06784b14e",
+      "items": 601,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CO/geo_CO.zip",
+        "sha256": "df2b1497492113a87caa15f50c2bde0f9309981b653b1b6bca54b78d00078b74",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "CR",
+      "file": "brands/CR/brands_CR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "13b175e1e83477c1164a04fc1f22ad8836af5130c59749abdc915b67a924a3fb",
+      "items": 183,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CR/geo_CR.zip",
+        "sha256": "868f7f1af97e721828d5c768368a96e8ef94094dfe14d17a99e882d9ae87c65e",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "CU",
+      "file": "brands/CU/brands_CU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "3dda496179d791d7935e9d7881eb448d01300f9458e4617658a9f908c83157ce",
+      "items": 51,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CU/geo_CU.zip",
+        "sha256": "36fd338946f4c069eb8f4a783634acb18d8f8ca3cdf957179ec1611cc53bc8a2",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "CV",
+      "file": "brands/CV/brands_CV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "ce949fd7d2615b00cf5319c8b4b2286fd47801e622632ea2b62125cf30e3a81b",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CV/geo_CV.zip",
+        "sha256": "ea4be9b3d7fde75aea62d2873c6e679934dbc471ccbf3fb24b213bdc9e4e5379",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "CY",
+      "file": "brands/CY/brands_CY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "8e6ac6498da9fb824ad674c7269b5f0194ff7864ea6e0ea50ad99cfc2c05418e",
+      "items": 251,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CY/geo_CY.zip",
+        "sha256": "5d9d429e379fed6f25a5cbc711883a9ff563394b0e13379514cef5c63efdbd44",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "CZ",
+      "file": "brands/CZ/brands_CZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "d74be27b98de753271bf2cab2a382bce8fee7b89c785d563f5f7da645be513e9",
+      "items": 679,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CZ/geo_CZ.zip",
+        "sha256": "f6a9aec2e6ce6c5448bcebdb510b3570ef31cfb8bce0c7844e952d6fdd0a6ae1",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "DE",
+      "file": "brands/DE/brands_DE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-15",
+      "sha256": "f0421d03a54e75c5636fcf82b53c09d0ce338ccc5ff7f9a7298b432e3bf56d7e",
+      "items": 2016,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DE/geo_DE.zip",
+        "sha256": "6641f89152e195f4a15750e7bb74390f2c84406afe07789633b21bb9b49a0ef3",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
+    },
+    {
+      "code": "DJ",
+      "file": "brands/DJ/brands_DJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "27a73c113dbd6412c1bee8aae2eaf4ba9086837a01a83dd141e2b02904a3cab0",
+      "items": 10,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DJ/geo_DJ.zip",
+        "sha256": "40687e10383a1279cf0f9d1b0bafc0901640117fbdeb5671b030f53d3ebaf4c5",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "DK",
+      "file": "brands/DK/brands_DK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "db82bc953eceda577e3546034a038b28c2c61d3bcb18e833faa510bb35220214",
+      "items": 461,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DK/geo_DK.zip",
+        "sha256": "0bb0c250565bf3e64c3dd2156b2eabe320db2fb0b08c6d4d0390171b68373c3a",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "DZ",
+      "file": "brands/DZ/brands_DZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "056909af119839b5833778cb12b554d54f15c8730e1e13b8c42df8cb64eb3555",
+      "items": 166,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DZ/geo_DZ.zip",
+        "sha256": "3f5187c15f0f1630291c8a75cd6b124b5f5b673d663cee44bcb8b682b18b37e8",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "EC",
+      "file": "brands/EC/brands_EC.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "0a2db47ad6a41f3cd76f3b5f0c765028f9b253362828d70f0827c0420b42bae1",
+      "items": 233,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/EC/geo_EC.zip",
+        "sha256": "36ee9255142c0274b07cae86fc98520d1bd5e6b757dee6d36311924e59717090",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "EE",
+      "file": "brands/EE/brands_EE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "9f0958b5f50b78d1b9386b05ab73a986c3ddd8607588fd54659f400e021c9fc0",
+      "items": 178,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/EE/geo_EE.zip",
+        "sha256": "5d0e188ca2a8fbbbd628e4840f4a24a9608185a1dbd3cf38a9bc688692970d1c",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
+    },
+    {
+      "code": "EG",
+      "file": "brands/EG/brands_EG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "486f7b2027d2fe8cc86061f0b208f845ee95e0c8c87e9dd660d572c5174f6d53",
+      "items": 164,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/EG/geo_EG.zip",
+        "sha256": "50e67cf7445e414ddc9b5a93e43c05af0bf0590eab0b5440c921b7f6fb90a2a7",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ER",
+      "file": "brands/ER/brands_ER.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "798d7899f00c928f8f85ab64cd7f54cb177e0b5c5c9987dd1edeb971a629acd7",
+      "items": 11,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ER/geo_ER.zip",
+        "sha256": "77cc7c0c3382846abf35f71fb65031bd44f7e7ee2c8ae431834c7ebf6cf8f197",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ES",
+      "file": "brands/ES/brands_ES.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "6b3be2f02f4de956050960d9a46057b968e9dc34ab049bdcdced7291c4894225",
+      "items": 1050,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ES/geo_ES.zip",
+        "sha256": "983ed256bff88734d51617edbf0095cb66549563106c84c66cd324899f0d38ac",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ET",
+      "file": "brands/ET/brands_ET.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "48675b42b7ffdfa642cc81761d0b85cbbe98abff2d84906cba1f879f33c09b68",
+      "items": 31,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ET/geo_ET.zip",
+        "sha256": "5d0f87164a768d7e3e85d805e8d49431ee0876c4f975978a99f55a287b12aa23",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "FI",
+      "file": "brands/FI/brands_FI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "6aa656d96269cd8aca05116f8ada51183a194079f72212de1d6808d53bfaedc9",
+      "items": 357,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FI/geo_FI.zip",
+        "sha256": "ffdb811c96d14a2ba3c38fec2580b967e32e8ec035f6d0ad6deafb7a80e6bd40",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
+      "code": "FJ",
+      "file": "brands/FJ/brands_FJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b52016a7ad2f1d0e5d6101dc47d605461e9615c5e9b67508e6d57c5c797ae2ec",
+      "items": 21,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FJ/geo_FJ.zip",
+        "sha256": "7dcc63dc5aad66b67914f7593702afdc770e57fbf37efa4e2e774ed426100acf",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "FK",
+      "file": "brands/FK/brands_FK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "4f6b2c11dfd79829535f46a4217b6e5d8952e044faa4c29643b19edf4ef2e4e9",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FK/geo_FK.zip",
+        "sha256": "121722a62aa11fd039ecdc1cab3d3b7d66a8e0dad80263ace8b1466960150929",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
+      "code": "FM",
+      "file": "brands/FM/brands_FM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "75f319f67182a9e7f6c7c783fa3f31d57a7b7def812c98b0fdaa01a857f840be",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FM/geo_FM.zip",
+        "sha256": "b90119f40d584ae24f96c8be693261eb27ef8d84f2a68a941881ef1709b5cf19",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "FO",
+      "file": "brands/FO/brands_FO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "4a1f4d2122e70b0e1c8170927c99f58c152d44efb6055bc246dd6f304ed229f2",
+      "items": 11,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FO/geo_FO.zip",
+        "sha256": "a3825c3a20681e5ef6b534528a82e0c6e3e06544b808673316dc0c02a15e962f",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "FR",
+      "file": "brands/FR/brands_FR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "79422de7c0feea6bfe1e65df40ebfbd5fd9159afe99b9b404ed430b6de377baf",
+      "items": 2027,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FR/geo_FR.zip",
+        "sha256": "5ff05801bfe04e7792d050571ce4a5c343874f8d00df21c2401191f09c11db8b",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "GA",
+      "file": "brands/GA/brands_GA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "c371e9b86cf25e89f5aaac01dffbd67ccacfc9d1799950af5b27d77cd7084448",
+      "items": 39,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GA/geo_GA.zip",
+        "sha256": "c1694f4f42896ca06a1958a3f288ea53ac4c272b18a5e1258dd7e62aaaf83f29",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "GE",
+      "file": "brands/GE/brands_GE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "3ad76fa43beb14d18473b7f1c361cdb61b79a441af3106e5eacf96586ee9f7cf",
+      "items": 311,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GE/geo_GE.zip",
+        "sha256": "646a49f47d37269e4b73698ba2dbc4cafe61dbf2c7ba0a1a49fc1c7ae43d1f40",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "GF",
+      "file": "brands/GF/brands_GF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "4a863e74383897434c2c0e1c2224ed08280227852941b6d051b0098442047d09",
+      "items": 114,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GF/geo_GF.zip",
+        "sha256": "2c40f621a48300a91977801ce6664b0f3de7a47cc9d5e7f79ba3af9617e71be7",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "GH",
+      "file": "brands/GH/brands_GH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "327db7ada7e2e8646254ce7a3951fe58812e18e4d1c19084a65f6ca8a7cd5bbb",
+      "items": 103,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GH/geo_GH.zip",
+        "sha256": "45f4faf328b9ec633c700186ad3d796398e40c28a8cd8adba869c319c737a131",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "GL",
+      "file": "brands/GL/brands_GL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-05",
+      "sha256": "2b4271247c166e159e6a97170ba13513eb580eb62591e0e12dfe2bb94ebadd80",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GL/geo_GL.zip",
+        "sha256": "d1fe4576325a8c6801c1a229e287640ee2cae4331f62f839677dfa26eb8b5318",
+        "schema": 2,
+        "updatedAt": "2026-08-05"
+      }
+    },
+    {
+      "code": "GN",
+      "file": "brands/GN/brands_GN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "7e6f6d5b3616136d73b57547d51844ab105f6fa80e88934a0da5ba4370dd2289",
+      "items": 16,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GN/geo_GN.zip",
+        "sha256": "940067fc9a2fa10b94d005ea805553ec4331d19c296deffa44c7622d26d76771",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "GP",
+      "file": "brands/GP/brands_GP.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "0ccfdd3de8920497dc52ea147f1d2a801c242c1e15ea3f3211bddee02b4bc11e",
+      "items": 149,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GP/geo_GP.zip",
+        "sha256": "eb37272aa3e062688201cc90d550eb611e3ab6a88e46a1aff4176789968b5649",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "GQ",
+      "file": "brands/GQ/brands_GQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "fdb973c52ec6f92af3c0272f19178d29dd5f4ce74cd9f33ff693cd5337877be5",
+      "items": 7,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GQ/geo_GQ.zip",
+        "sha256": "fd3c0c65618ba85dd7ad71ea2be0f9dc05d07254fabc36c0ba4f91d0d06eec25",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "GR",
+      "file": "brands/GR/brands_GR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "f143d925d8bdc726ddb6ac74af69a542a2982ff4ac856503a5c3526e6e0816b6",
+      "items": 425,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GR/geo_GR.zip",
+        "sha256": "d7768996409b24bce4019f3c9aa007a2d40ae38608dbced12becf74f8e92be92",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "GT",
+      "file": "brands/GT/brands_GT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b1278ede19cbe3abe26cda98aee00016b9c4fedc40511ec618a3b41f4a98b1b8",
+      "items": 178,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GT/geo_GT.zip",
+        "sha256": "8f4dcba87e1d7948425339b3abdf8a4e52f955a66daa6b3a2b7606bebec7edbe",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "GW",
+      "file": "brands/GW/brands_GW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "51d34d6b6f33d22ed2ecb9061d16abdb2872dcbd3109fe71e9042451554ae211",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GW/geo_GW.zip",
+        "sha256": "18a97288c989e8181874bfd71ce009e40902d9ab24d22d7726a12e7984dae380",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "GY",
+      "file": "brands/GY/brands_GY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "37448acd7b70333670809a3791a1fc3d7dba2d03fc916cce883c30753fb3170a",
+      "items": 19,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GY/geo_GY.zip",
+        "sha256": "437f6afdfc974fb51401159259dd8c40d84c50041af7ca7e01327dd78599a020",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "HK",
+      "file": "brands/HK/brands_HK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-21",
+      "sha256": "de79790832ea258194bbf344376638a6c570857a489fb876c96d9153240258d4",
+      "items": 365,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HK/geo_HK.zip",
+        "sha256": "97db98b7f6c3a37ddb6c8bc0f6c5fe78a7e074050a09845f4fc95fa33ee052bf",
+        "schema": 2,
+        "updatedAt": "2026-07-21"
+      }
+    },
+    {
+      "code": "HN",
+      "file": "brands/HN/brands_HN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "de47f3fc5cefece284282c4ecc340826792dde64b43b0bcfbdfecb4012594208",
+      "items": 95,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HN/geo_HN.zip",
+        "sha256": "b1a516ab0539337061297315b48a6deaaf4972ccbb5755fd8e213853a76279d4",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "HR",
+      "file": "brands/HR/brands_HR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "635f9eeba4f5ab0e7b69881d4f4f0595c98b64f3a405d73052ac1abfe892cd45",
+      "items": 297,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HR/geo_HR.zip",
+        "sha256": "84ace60cf3130c0dc406ef10b470d8e34c510e51b471550143c3b8d5c3f14c02",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
+      "code": "HU",
+      "file": "brands/HU/brands_HU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "54d45a28200808d62fdb7dedb3e3f42946935a2b221160cbfbaa8a5233294be2",
+      "items": 432,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HU/geo_HU.zip",
+        "sha256": "8aa95e9ff430f57963fe41a6b534c83bfb82f347a52adc9da7f0fd375e6e7c95",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "ID",
+      "file": "brands/ID/brands_ID.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "d36158f6d0f09137e1d6a41888384e5ea58c21bb18a82d1a72c76293a257248f",
+      "items": 372,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ID/geo_ID.zip",
+        "sha256": "f32b9f1a88c3ebce520d22a397b945141b2f8d7dd53fc6b91ed8ce1af172dc3d",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "IM",
+      "file": "brands/IM/brands_IM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "3c41535d82e4d0d4ba54cccef0ce5d306f901cc7a2ba7ad5884df15bed0a33ac",
+      "items": 64,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IM/geo_IM.zip",
+        "sha256": "62658d12b1cf769faf5f9fb8105666b19c162d5ddcfd7a4ab1a452266eb405c5",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "IN",
+      "file": "brands/IN/brands_IN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-22",
+      "sha256": "09264a37b1356eb4432dc7d56815045a4fc7db505be0021af72d99b18e4edc2f",
+      "items": 669,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IN/geo_IN.zip",
+        "sha256": "88299484e6e5466a399461c6958e11965b99f36c52cc6a6244d07f1cfccfcdbe",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "IQ",
+      "file": "brands/IQ/brands_IQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "c85d83f61fd74840496c56cf5eb9878b1f8c71b4542efbb87919cee1a6ae46be",
+      "items": 81,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IQ/geo_IQ.zip",
+        "sha256": "76b38995e6eab0784c8ff044e03f1556d1bef4630492c319af0d07443438e6e2",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "IR",
+      "file": "brands/IR/brands_IR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "453ffb30e52861cdd23e6140a7441f7c594c14594ecdccc7d4ab6e66b67ffe22",
+      "items": 141,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IR/geo_IR.zip",
+        "sha256": "3658b1fc8e3219591b23f85216ab8d197178d8e1129487e8c119c5f6827203d3",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "IS",
+      "file": "brands/IS/brands_IS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "0ba7827942af8d3cde41b9ae91215a24994e87ad5fe9cc52cacab2f42e530f6b",
+      "items": 73,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IS/geo_IS.zip",
+        "sha256": "36d890db41de12f61e20722f0e7b795490024f900cddd6c60dba6eea1f7e0a37",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "IT",
+      "file": "brands/IT/brands_IT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-16",
+      "sha256": "d757783f450fc23ac062c4eab28d850fe33d86b2d8875be2aec1dca46b0bc2fb",
+      "items": 1076,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IT/geo_IT.zip",
+        "sha256": "12bbc2901cf9569190efee7b8c035f111760d804c124ed2aa92b59f8fbcb12e5",
+        "schema": 2,
+        "updatedAt": "2026-07-17"
+      }
+    },
+    {
+      "code": "JM",
+      "file": "brands/JM/brands_JM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "6eca1e7792f87085df696bf5502d397c96c49b169393d54b13e928f88be68dd7",
+      "items": 44,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/JM/geo_JM.zip",
+        "sha256": "3ae17977b624f5b2012dc87e806c74d12264785c9cab8e56c61b22dc05d0598f",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "JO",
+      "file": "brands/JO/brands_JO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "addfa5573742760c90cb8ed29375a4146d4d874165e9aa26ae62470b91c1a389",
+      "items": 114,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/JO/geo_JO.zip",
+        "sha256": "eae84ef6112263cd5f5e5ebe8fe794f7126bd2d0f8a394dce9c3353ee9b05855",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "JP",
+      "file": "brands/JP/brands_JP.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-18",
+      "sha256": "b0b2613922a9e12734dc1285e956927679139a0aab2795d5f126ca932eb7ec5b",
+      "items": 2462,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/JP/geo_JP.zip",
+        "sha256": "48d927e38accc4f26666317a66a3aa53efc28196c5a7b1c4e55cad0b3b190f6e",
+        "schema": 2,
+        "updatedAt": "2026-07-18"
+      }
+    },
+    {
+      "code": "KE",
+      "file": "brands/KE/brands_KE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "186dea7d6187e169b5eced2f2165b9ad9b055f7feebf33818c4c704edb2f0162",
+      "items": 93,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KE/geo_KE.zip",
+        "sha256": "176f239db28a88e6df59d32696e8a7483bd92bb192148a0a8249ebc8a02af4b3",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "KG",
+      "file": "brands/KG/brands_KG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "2e2436d8285206e2a441d66d353245ff26693eb2266ee30d9f0b6fb293239efa",
+      "items": 67,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KG/geo_KG.zip",
+        "sha256": "88c2604d3ed48f81caf40cf315652c77c1994101b14cd3415a1671cf8bcf5756",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "KH",
+      "file": "brands/KH/brands_KH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "b86bbef990bac7c29badbbdfd13b743aa0116738134d935e567fa744272c8a08",
+      "items": 110,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KH/geo_KH.zip",
+        "sha256": "d7779ae00928158c2eae849b6ce06cae7bf93ee35dccdf231609f00b17c92343",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
+      "code": "KI",
+      "file": "brands/KI/brands_KI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e7cc907e1a6fefe1e3cbe5c7a8988dba5123b810b1f15607510af17611d39b3a",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KI/geo_KI.zip",
+        "sha256": "b29d5b5ce0dc6f6cfef7ef85031241c534e906923fc294c81ba89d69b9f86563",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "KM",
+      "file": "brands/KM/brands_KM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "e09d5ba66c6cc68e766386be4c104c5b420470ba2924d618ba229a03bf8fe319",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KM/geo_KM.zip",
+        "sha256": "0120f46cd2efd0c8e32724db257cdc07a0e9f1f9745bebd480b813db13017048",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "KP",
+      "file": "brands/KP/brands_KP.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "eb32820949cbc3c999229536be84bc2807963452038ca8bcdcc699fbeff2b3f4",
+      "items": 23,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KP/geo_KP.zip",
+        "sha256": "6c5a7cb5394dbd7771aa447712910bd5011279f533e00217bbdc30ff6c66fe44",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "KR",
+      "file": "brands/KR/brands_KR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-18",
+      "sha256": "571ab5f7af118a064f7939498c1ae5a2d10849090c2ef0e4f93e70c1532e5b1b",
+      "items": 420,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KR/geo_KR.zip",
+        "sha256": "778bbcd599d1edde299d1748b6041838f28f2ef8fc3557ca0691a5d1e6d15d8a",
+        "schema": 2,
+        "updatedAt": "2026-07-18"
+      }
+    },
+    {
+      "code": "KZ",
+      "file": "brands/KZ/brands_KZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "099050b16cc8e84da5f1226ff5f3d18f8fb01bb6b349da47c3a803a1c9b30a9b",
+      "items": 217,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KZ/geo_KZ.zip",
+        "sha256": "05d757d625010cee8212d1ad0b10e8e7a125bbb65d84f8960c557d8d56697427",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "LA",
+      "file": "brands/LA/brands_LA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "3de88168436b343a7a7f862b111e07d573b320d955c837ab397f8e2d40edf564",
+      "items": 60,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LA/geo_LA.zip",
+        "sha256": "fcdc30d4677eeccd0f253f1b68afa934ab139cc4bf557db4d80a2380257a54df",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "LB",
+      "file": "brands/LB/brands_LB.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "01e63205ef5fd827a7f29cead91a93175b86aa54e3127c760d19180746606815",
+      "items": 132,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LB/geo_LB.zip",
+        "sha256": "997c5b925528a50d7671e66fa8ecc7defb0b716c855ab1a09ce1f33b87c559d2",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "LI",
+      "file": "brands/LI/brands_LI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "7a28bbe3f87475555917b6993a45c80e744f0d9338e792884bdc9be62649669e",
+      "items": 18,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LI/geo_LI.zip",
+        "sha256": "55c2fe670559335b1184337352ad1c7f470201121e060198a9156162d6e6a8b1",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "LK",
+      "file": "brands/LK/brands_LK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-24",
+      "sha256": "0841cdba5e943d4bf783b903826f7c1a1d0a7c90ee5f06fbf6028f0c9f8074ae",
+      "items": 86,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LK/geo_LK.zip",
+        "sha256": "8c15ee2861ef5154a56af84f050dd1230a4d5cfd339f174bf7f26e99ccd7e6b5",
+        "schema": 2,
+        "updatedAt": "2026-07-24"
+      }
+    },
+    {
+      "code": "LR",
+      "file": "brands/LR/brands_LR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "b3473683824f9a224c173f440ad4128f77bd109ad0a83df0ef3502d3a5c8d129",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LR/geo_LR.zip",
+        "sha256": "8dbdc7cd510958307ab1272cf2553204c27e95ec821a42133f904bc28f7d4b50",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "LS",
+      "file": "brands/LS/brands_LS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "560f70dc1ae1ebb877f438439219d32f0fa6e0934d2a2597b49415686b60a45c",
+      "items": 44,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LS/geo_LS.zip",
+        "sha256": "34c0dac1d241bb6655caaa1a90e4829190e3ea933e623498398033a9c5eee297",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "LT",
+      "file": "brands/LT/brands_LT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "ea646811c2b499cc013ba24837b62dadd46be2f146b76d755fca0352408d7b78",
+      "items": 140,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LT/geo_LT.zip",
+        "sha256": "95d247877cb797a58c04e08e9887fbc1c63b62c85ba39ca8f820cf1c41afbc8f",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
+    },
+    {
+      "code": "LU",
+      "file": "brands/LU/brands_LU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "b085f25a8a917691d8e4a4861f3f2d19d00e42bd05e09ff0ad49a0f941f4e304",
+      "items": 274,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LU/geo_LU.zip",
+        "sha256": "aa7989c2ad77e01f5498b37a1f738b37df809a499dbff053f2ebfbcb2cc4ea71",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "LV",
+      "file": "brands/LV/brands_LV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "e168e4d243820cbfa51c6866a39fe11f6b4771acaac004ecdc28db50ca3ad583",
+      "items": 246,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LV/geo_LV.zip",
+        "sha256": "7dded16e9c6f7e0321af751c88edb063f7266309e5d24ff388ab13ed0ada6897",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
+    },
+    {
+      "code": "LY",
+      "file": "brands/LY/brands_LY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "8d432565bb5c94cc1ecb1614296b2f808ba68d5e11457bc32b25a01ced48ccb4",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LY/geo_LY.zip",
+        "sha256": "15c0b1d34d9701c1027911d6a2365e32f7a37b9cca13fbae8a2dbe90e6d92fce",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MA",
+      "file": "brands/MA/brands_MA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "9989f885a9e1c06464777999df2c83a353c000472dbea9f280bdd9c067985b04",
+      "items": 246,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MA/geo_MA.zip",
+        "sha256": "fa4771520a4a8223b8dbfbc360871f4819635a9327ef869c7d13016e0b1b463b",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MC",
+      "file": "brands/MC/brands_MC.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "976dd6b44da18f261f546cb22dbc35da28d366f5bb9415d93ac1b4ae31a3e979",
+      "items": 74,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MC/geo_MC.zip",
+        "sha256": "ee4577d4cbea1a8b7ca425d3f960ff69af6cabb2c6459f9da33e5e317e7b574f",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "MD",
+      "file": "brands/MD/brands_MD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "be5ba5b539beea56f0983a437661c85cd60549401cd3106750578cfeea669fe9",
+      "items": 110,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MD/geo_MD.zip",
+        "sha256": "dda5010b486a2906315f059bc50238a08cd448001aaca844c6657de3317696df",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "ME",
+      "file": "brands/ME/brands_ME.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "2e0489b76b0ab26ea1088082a26774836a604542e40c15a81c6761ba56edbb9b",
+      "items": 94,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ME/geo_ME.zip",
+        "sha256": "903fb49b97a2c76780bc0227c74b4c975175df831e091abe59f2f7093c89d6ad",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "MG",
+      "file": "brands/MG/brands_MG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "3b3b675976d739b47a84dc1d47768b179bcb4feff517e07b9e69c381f1132eba",
+      "items": 34,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MG/geo_MG.zip",
+        "sha256": "656d54e04a7adc8fa37c6ca86d47aa277be5588ef8b8bcf3d1b226e5cfdfdecf",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MH",
+      "file": "brands/MH/brands_MH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "6c8f43aeeadc00646671d8501b85260530ac14529a744e7368e36308e9352ddc",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MH/geo_MH.zip",
+        "sha256": "194cd110f7a9d1e4a260c2c33b2f9d6ead4dc3babbee2b539de387d0df25331c",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "MK",
+      "file": "brands/MK/brands_MK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "8ddf87728aab9963ab5c840229e235c4da667e72ad3cc4cfeba6b396f4d834ba",
+      "items": 107,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MK/geo_MK.zip",
+        "sha256": "dcd152df2d50e829e3ad152f4379df2e3d200567457a2d3a63955b60bbfbc97f",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "ML",
+      "file": "brands/ML/brands_ML.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "49e037064099dddd7d143cd9b8dce96b6e4a5259d733a3cd48c300053184ce28",
+      "items": 31,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ML/geo_ML.zip",
+        "sha256": "977e15680dac4af38ab190cebc3b226a4b543ca8dec9d0582696336c397c17b6",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MM",
+      "file": "brands/MM/brands_MM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "aeab62e8227c985a1cb06bb66ccbcf5eccdbf3cac8abbc12dcd2df19fd8edbd9",
+      "items": 66,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MM/geo_MM.zip",
+        "sha256": "9d318e529e7c11b709a389b0e7ae5863f642fffdd340272f507902f899ae3ee1",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "MN",
+      "file": "brands/MN/brands_MN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "36c3b4bae76f526f0fb4824dca0caafdee5a61f51a98eb44adb224adb5d0efc7",
+      "items": 58,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MN/geo_MN.zip",
+        "sha256": "fe87511893887d25b33933922727691bd2d910f5a628f5071fcf4e75c22a2f6b",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "MO",
+      "file": "brands/MO/brands_MO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-21",
+      "sha256": "9ba94f8dee7ff92444673d686c507baf9c934c66ef3e0c53ecb3a3871981e28a",
+      "items": 100,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MO/geo_MO.zip",
+        "sha256": "00e088d112fb47806b8f95bb09d224bd7652fdeeed2232d5b3b7924f2ffaf305",
+        "schema": 2,
+        "updatedAt": "2026-07-21"
+      }
+    },
+    {
+      "code": "MQ",
+      "file": "brands/MQ/brands_MQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "0bbedf9d2f0a54388953880369570280a2985891507223e3afe218b228f0550d",
+      "items": 94,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MQ/geo_MQ.zip",
+        "sha256": "84cad0ce62ed43a9bf173bc9754939df7a2c3595a2485359b8c577f4b39f2e96",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "MR",
+      "file": "brands/MR/brands_MR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "a597574433e71c212029fa9b05d2f5c79879bc326db5a8f4aab4694c8658e9c6",
+      "items": 17,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MR/geo_MR.zip",
+        "sha256": "9aca11b1f8b9fe8fd9fa07cd9a684ad08069bc5ecf2927dfec0c8cb30ae46605",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MT",
+      "file": "brands/MT/brands_MT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-09",
+      "sha256": "0d8ea90bf9292e93afe030e55ced98655ea10073fb9964a3c9e2cd50d6dbcf74",
+      "items": 133,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MT/geo_MT.zip",
+        "sha256": "c17e479d216ad3e441decbe4a4509f0eef35002be23f23a149b65acec3331f93",
+        "schema": 2,
+        "updatedAt": "2026-08-09"
+      }
+    },
+    {
+      "code": "MU",
+      "file": "brands/MU/brands_MU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "046fa186f8db88046a26e861ac0a8959bc804f7938d80ecf96f4a39ab2bdfa77",
+      "items": 72,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MU/geo_MU.zip",
+        "sha256": "f1992ee5c0441b5fc7db30308a8124e130052949064e9427425b0398480c08c8",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MV",
+      "file": "brands/MV/brands_MV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "0e8652eced28b8d3aba1cf6c0ea2c227dd4c43375f58d8f253d32fad5165bddc",
+      "items": 22,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MV/geo_MV.zip",
+        "sha256": "4927c4d4b4639150c2bb39a3bbf7c2194b26ded4f97635d2124feffd06877fb7",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "MW",
+      "file": "brands/MW/brands_MW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "75b0c46322647a3d340b0e9895907dc258c135c1c12198981dde4b390a15e19f",
+      "items": 38,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MW/geo_MW.zip",
+        "sha256": "50f28c70b00af363328aa8d1c5b5ae7afa623947dbb5f48a14fb63dbdd136ec9",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "MX",
+      "file": "brands/MX/brands_MX.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-05",
+      "sha256": "79a02fdc3c8a62446615d0076592f2be15f7565221ce5c64cc24be1c2b0d18e2",
+      "items": 641,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MX/geo_MX.zip",
+        "sha256": "2ab67d9348a96de09929b66a70b9b5153045813b628a9e426dddde297b97eabf",
+        "schema": 2,
+        "updatedAt": "2026-08-05"
+      }
+    },
+    {
+      "code": "MZ",
+      "file": "brands/MZ/brands_MZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "aebacd92106ac516e032cd1152c23514e57a31c567246bff7f7024df02591936",
+      "items": 27,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MZ/geo_MZ.zip",
+        "sha256": "3a051b67211b33aa86b2f0d75b46e40de8531c0d23653ed838f6cba1ad552964",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "NA",
+      "file": "brands/NA/brands_NA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "62bfb0aae566982bbd54b8a3e02fd0abff33c68c8cd41fcf6d838fa61bb9211a",
+      "items": 102,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NA/geo_NA.zip",
+        "sha256": "6dcebbc2e27e6504491ce1c21172649b2c449d629253a68f09f95d86a3929adb",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "NC",
+      "file": "brands/NC/brands_NC.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "796498995a4431f8aa9c6e3ca78da87baf3a8de14c24605b92b93f10ffd4d582",
+      "items": 108,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NC/geo_NC.zip",
+        "sha256": "6b0ee11570da3c493e778ef542f810fdcb19805c6efef69af47b44e4063545ac",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "NE",
+      "file": "brands/NE/brands_NE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "3ff85dfb6714087b049732e3f76295bd8893ff2fdeec7ca7ddcef658dcef3d85",
+      "items": 8,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NE/geo_NE.zip",
+        "sha256": "9e392ecbc652371d527b90b7465696a1e94b67cb11011ad24209705c66843d75",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "NG",
+      "file": "brands/NG/brands_NG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "3af87d26ca7b6bdb7671e63b4857097af9ca2dfde8841148ac0a79b315772331",
+      "items": 70,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NG/geo_NG.zip",
+        "sha256": "291f8bdf122737a3795ee81f8bd71d03e44fd9a0384f8033c5ecf68df41afb62",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "NI",
+      "file": "brands/NI/brands_NI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e1dea9c65dbfae804babd602ceb10af169bcf4c104858dfadb0b6ee568b18f9d",
+      "items": 87,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NI/geo_NI.zip",
+        "sha256": "9242e58851a12aabf4a0885b14549185d3823c75aafe792a0e2f3832a19c8982",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "NL",
+      "file": "brands/NL/brands_NL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-31",
+      "sha256": "eded17a0f96034758657dd66d50e43ef74250a36ff102259fbb2c7ea5896df89",
+      "items": 1075,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NL/geo_NL.zip",
+        "sha256": "9fb1f4c04beea556a586e72adb243f25d253914079321613450052200a37bad0",
+        "schema": 2,
+        "updatedAt": "2026-07-31"
+      }
+    },
+    {
+      "code": "NO",
+      "file": "brands/NO/brands_NO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "798c61fff79c8b31a784365d43b5681b90cf1ae95b08167a44b05cb74b17856c",
+      "items": 349,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NO/geo_NO.zip",
+        "sha256": "b3ec272d52573491670d42a3074c954e71c6a5d2d87b604a585b196f07693351",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
+      "code": "NP",
+      "file": "brands/NP/brands_NP.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "96df7ed0d822c9edd4322e698efb87286f5071c2d7a227e21a19ba4600ef668e",
+      "items": 80,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NP/geo_NP.zip",
+        "sha256": "d7de7307e3a1aeb928a4bb61d269355ae71b7a380715b71a3e9a1cc253f2288e",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "NR",
+      "file": "brands/NR/brands_NR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "442ed60072f7cd2de926bcea1b27137396c1b75fe3b1d13f9e3421037c5bd20c",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NR/geo_NR.zip",
+        "sha256": "db5ee48090e4d4c189c19a13beb028f624d20e3b199823b688bda222722c52c6",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "NU",
+      "file": "brands/NU/brands_NU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "21e7d7653855703a61aa968044d1e1f536df7cd85839a64a0721a1ba52cfce55",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NU/geo_NU.zip",
+        "sha256": "c5699c9a42e9a2804ecaf16e99f2295f3b9c70c0238fce950202c23188395753",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "NZ",
+      "file": "brands/NZ/brands_NZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "fae90d44955fcf2549c3186bc7535690cf75bc96e3500cf5d72b1f7360769899",
+      "items": 403,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NZ/geo_NZ.zip",
+        "sha256": "00f9c030b143981b4d4c0e9e58e10bc56200293682a6cab4d46bd50c6c44c1a7",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PA",
+      "file": "brands/PA/brands_PA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e196040eff1323aba38046b5a935bd1dbde6a2c4e9e81dc5dc20d61cd7be1b00",
+      "items": 192,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PA/geo_PA.zip",
+        "sha256": "132dc1ed91b897526583037c404a00954f33827da16a9dfc86e88b22cc6ba60a",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PE",
+      "file": "brands/PE/brands_PE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "aec61acdff06bb8ef1fb1f721a957c27260c75a0baf71ce322123d4b296558a8",
+      "items": 339,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PE/geo_PE.zip",
+        "sha256": "1435aec026e2fa43ffa650921e7287f200009a6af8342f478f922edf5d8e7b05",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "PF",
+      "file": "brands/PF/brands_PF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "fe9af970469cb3d556e6774069a03a06a092cbd78aa55da318435c5e7f040d8f",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PF/geo_PF.zip",
+        "sha256": "0e442c7cb525e2b6ace4edfac73e4bd0458863ef0d66491909a53b8d22703484",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PG",
+      "file": "brands/PG/brands_PG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "43a6b3ed19d86640e6dc090e3b1967399e6b819938b7fcf801a977459a712fe2",
+      "items": 16,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PG/geo_PG.zip",
+        "sha256": "c189d23b10751b28016ff8a8842771d8a4b2ec0d2d6e9be6f317db95cd7b0b30",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PH",
+      "file": "brands/PH/brands_PH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "3113bda51c37da4ca6541c200470457ebbf81925e3f0d6b189d9c84d17f79acf",
+      "items": 634,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PH/geo_PH.zip",
+        "sha256": "49f1fd07d40c40669b1383ee0cf1eddfbd856aac17d38ca4fe5be0acc0f39042",
+        "schema": 2,
+        "updatedAt": "2026-07-24"
+      }
+    },
+    {
+      "code": "PK",
+      "file": "brands/PK/brands_PK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "f73afb18e4b786b981cdfedd58491ee57a3c741d6cc32aad5bd3fdb5747a3d4c",
+      "items": 191,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PK/geo_PK.zip",
+        "sha256": "1d22e509d72fd312430d2915997593bcc7c88740ab343c8a7e860767a52cb966",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "PL",
+      "file": "brands/PL/brands_PL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-09",
+      "sha256": "35043c1dc7f3909b34ad94f5dbc7c4264152cc104a5a04b74dd06ff72d29e7ae",
+      "items": 984,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PL/geo_PL.zip",
+        "sha256": "28af8201c22099c5194d989eac24d9e75a3b14c0f141e7d4d5af8a47baeee8c0",
+        "schema": 2,
+        "updatedAt": "2026-08-09"
+      }
+    },
+    {
+      "code": "PN",
+      "file": "brands/PN/brands_PN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "9cf028283ff1af53e1f1a8704f9366bd400306e634d97cbd27d134f44c85a8b3",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PN/geo_PN.zip",
+        "sha256": "5a09fec45f86aba8c349c4b7d5ec8723058f721e09aaaa18867e45e0d52f4873",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PR",
+      "file": "brands/PR/brands_PR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "af9957ec67c86a17ac745d2db6166442d6e7112fe22728fa3303ffce1f295766",
+      "items": 287,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PR/geo_PR.zip",
+        "sha256": "76570cc2bf8703d2be06277edabe5304f4d7b9a2e186e749be843b4ff69fc829",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "PT",
+      "file": "brands/PT/brands_PT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "efbcb769e5c0ffe5a4408999c4619bbbd6c9f51df7a98944d16e649bf4586930",
+      "items": 550,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PT/geo_PT.zip",
+        "sha256": "75c8dedfaf2b1db045c6cc9abd6aa96af4f8910226cc8dcd676780c5f2e065f1",
+        "schema": 2,
+        "updatedAt": "2026-08-09"
+      }
+    },
+    {
+      "code": "PW",
+      "file": "brands/PW/brands_PW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "d8b5889c1836909019a3ac00ec79d97b3530b020e9c8b34a9198d78a82d9438d",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PW/geo_PW.zip",
+        "sha256": "95698723cc9597636ad4bbd3d7c92645aea482c33177ea65b713695f4b24714b",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "PY",
+      "file": "brands/PY/brands_PY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "15faebc9c94cbd91658ba543ccbea3cf6956d52949b6600dee7357bfd14778f4",
+      "items": 157,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PY/geo_PY.zip",
+        "sha256": "313b372d10c50bbcec9425141bad0ee0304b2b2050c0a4b80aaa19b35b6ac45b",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "RE",
+      "file": "brands/RE/brands_RE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "b9357efdaec37774aac39509b26fc6eafd5981e13ec308d2ea10a9fe29bd9eaa",
+      "items": 195,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RE/geo_RE.zip",
+        "sha256": "c54b7a40bada9946b4236f237a278972962accef02d165bc752388f8ea7a107f",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "RO",
+      "file": "brands/RO/brands_RO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "69f3de085348d2a60370db12fb622ea8d370cd11364a457c5827b28679399fb6",
+      "items": 536,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RO/geo_RO.zip",
+        "sha256": "1a2c6a2a1bc24f05cb4da4a746ccc6e253c9bbe68348847124073cb488b96b1d",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
+      "code": "RS",
+      "file": "brands/RS/brands_RS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "6c4ccafc702fd99ab7d6d3ae574e1563354dec1ec4fed90ac500da5ec2600222",
+      "items": 374,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RS/geo_RS.zip",
+        "sha256": "223f620389f8d03d620f77b020793aa35fd8d5671d31f99ec9082efa31aaa65c",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
+      "code": "RU",
+      "file": "brands/RU/brands_RU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "795c60b7457037d001abc73ef2e1127c00b540e7fea62f484d9011f85ea144c3",
+      "items": 1055,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RU/geo_RU.zip",
+        "sha256": "871f96f1bd931b62f874e9c551f4eabab2bcdecaa10abce7be60df8f1046d8c6",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "RW",
+      "file": "brands/RW/brands_RW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "82a1a6185aa415be0b365fd47132b83f51ead6478a12ef02f032c1cff75bb02b",
+      "items": 18,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RW/geo_RW.zip",
+        "sha256": "72e517dce751dbe9e6d15d9553183fbea483399c19c4f1a43ef5faa1d862b011",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SB",
+      "file": "brands/SB/brands_SB.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b080f50bdb30d8ffd9c57aacb45f435b99dd7976d738b861fadf26fe4502876e",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SB/geo_SB.zip",
+        "sha256": "5b3d8584296a33444591a851017e0ce6154e38f20a2b14e48b99b65efbc540b1",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "SC",
+      "file": "brands/SC/brands_SC.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "0d2bc25cc1861c493e504cd2277f1d34ec21f55e0dd5b1e3df48fa2b210a0aef",
+      "items": 3,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SC/geo_SC.zip",
+        "sha256": "97578db361f48c938d6412d0bde8f00104fbd3cc737326f3446e9866c762deba",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SD",
+      "file": "brands/SD/brands_SD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "9e461ea96f229be6153fe8e9a435b9516ba171ffd89aeeb1b60512fa933acae0",
+      "items": 21,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SD/geo_SD.zip",
+        "sha256": "0435960a56c0c378f0b43b60ab0661c959fc1756d66dffcd022b2bee28f77a22",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SE",
+      "file": "brands/SE/brands_SE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "97d419cd404dea50e1cbc524fd2b3f04182180619215ca9d7e77065eb2f966ab",
+      "items": 745,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SE/geo_SE.zip",
+        "sha256": "29d2718e0239adb9f378c168ae8c431b2186ed0a91449332f0c51b670a20b6c3",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
+      "code": "SH",
+      "file": "brands/SH/brands_SH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "fdfb365e126509244c1c7122721d1fa5f42f27f32352e85345079bbdbe4c3f61",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SH/geo_SH.zip",
+        "sha256": "a457af0060c82451ec5a3f98d037caa59aea292f81a8b300f4eee04befce627c",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SI",
+      "file": "brands/SI/brands_SI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "fb9cc113dc362b781eb500a56937ee0e94667c73b1d9018fc862d70c700ffc1c",
+      "items": 192,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SI/geo_SI.zip",
+        "sha256": "bad357f2ebacbd14c6e288377bb48c512a1fe4bc39bd71380d72269e0d46331f",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
+      "code": "SK",
+      "file": "brands/SK/brands_SK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "7526928ee9ab4b3847df2e53c4ca34cbf16499ff347d888c28cb9d99f3494d1c",
+      "items": 492,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SK/geo_SK.zip",
+        "sha256": "237aefa2ac2d80742bf6eb6cb62d97741f67964348e0c2980645ad40ca428709",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
+      "code": "SL",
+      "file": "brands/SL/brands_SL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "8b02a44e04249296cc240af76c785ccbed2859a0c1afa82a8a5cf56cfd25e322",
+      "items": 14,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SL/geo_SL.zip",
+        "sha256": "95664fe15ea50fa9c832cbdc785aea337491b745aedbcc4384944b792291f250",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SO",
+      "file": "brands/SO/brands_SO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "9bf4bdad4348b60a93f275cb2f50bfe6460126148d7ff822b52e99ba9ffa98dd",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SO/geo_SO.zip",
+        "sha256": "7505e09f6d3245be0d67ba01074baca967fb1dba3e93fe422f5ff244946fb4d1",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SR",
+      "file": "brands/SR/brands_SR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "508dadd44909fb9882c9d9ed3b9310e89744a0513d196a8314d87e6ab088d8a6",
+      "items": 32,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SR/geo_SR.zip",
+        "sha256": "986b0f71eff42c5aeda33247ccc26ecdbbdd093758ff34f9ae26898fe9cd2588",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "SS",
+      "file": "brands/SS/brands_SS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "bed22c83f2d0630ad79727594c55fe4ed820bb33edf752050a24aec8e0f00581",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SS/geo_SS.zip",
+        "sha256": "3871323645ce9582a6255b7e1af4b7c3852065fdd47c404446defb92c82bd131",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ST",
+      "file": "brands/ST/brands_ST.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "50ca771c0939b5ec5bf50e0c067fd8493de1ad921022bc7f46143058f89731db",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ST/geo_ST.zip",
+        "sha256": "b5f32758dbc00c7c64c61cc6f21d355b5b39433c17c157414a1ef5632e7c9d70",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "SV",
+      "file": "brands/SV/brands_SV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "3c616e975a3cfb77d1c3833b73fa191890a7055377f191e1c4d82e9bf9dfc302",
+      "items": 101,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SV/geo_SV.zip",
+        "sha256": "fa33b284dae62a1bb4d85a4341be91484c9b725752dceadcb994ab6bb82dd226",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "SY",
+      "file": "brands/SY/brands_SY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "df3f46894f9ce8c35f3dab399e7bbc4668e9f5fb361412a280a646689328cfe2",
+      "items": 23,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SY/geo_SY.zip",
+        "sha256": "432615e931d553878131881030a42d2603d512fe0bef01a1c0081b6d4ade478b",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "SZ",
+      "file": "brands/SZ/brands_SZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "0cf556c71eb19d9a24bfb6851938a78cf7a88a4b91c2ed276e5cba86e3dd82b4",
+      "items": 27,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SZ/geo_SZ.zip",
+        "sha256": "352e0cf0ee9a5e157d0e69250312f91de920aff8caa5eddd3002c57f015ad75f",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "TD",
+      "file": "brands/TD/brands_TD.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "9568b523ac8877bce59c459829d4f5a6eb448811af4de3e9be274a1322fd1c91",
+      "items": 17,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TD/geo_TD.zip",
+        "sha256": "670af9f6279f6cbbf73a3aad1cde7cc6077035d8385f54f14de640356f8f0a95",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "TG",
+      "file": "brands/TG/brands_TG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "d03b1044201e5508b93daf7f28d17ac27832933819c1f0315caa964c90c6dcbe",
+      "items": 22,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TG/geo_TG.zip",
+        "sha256": "488f96f0107e59a589713f471e5b394d22351015bef9e086aabcfbe6604c4faf",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "TH",
+      "file": "brands/TH/brands_TH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "2e5f62c78fec1433e4aeb39078550be88b08cb0e1897cb5f6ea5620a75f7ea2d",
+      "items": 443,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TH/geo_TH.zip",
+        "sha256": "7251112bc533deabe7399708005aae2963fafd1df84adc05acb81f18dbe09bbe",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "TJ",
+      "file": "brands/TJ/brands_TJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "0fa3992bf53463c7f7db3c86c515ea2044cdd6b7689d7a6b233bb7a9c2097110",
+      "items": 33,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TJ/geo_TJ.zip",
+        "sha256": "2f86d4ee38b5caf3d2e7ed48cf95de8493a3c2172d740c534b8bbde8ebc375ed",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "TK",
+      "file": "brands/TK/brands_TK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b8bd39063ca3edb89e605c3f5271285afcdf356bd29ed58e452c130fb91aeab9",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TK/geo_TK.zip",
+        "sha256": "c189e3373c0202a0efde06a27278a6aafc1f1fd7e09bdb00ce50016d64954dd4",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "TL",
+      "file": "brands/TL/brands_TL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-21",
+      "sha256": "34edb88c4437df8d5f2d049fdb55306b11e2a60854e658b3d07511d773cf2202",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TL/geo_TL.zip",
+        "sha256": "08c9270064f6eca1f8d79955fab208fe7f6880ce35c3eb034c04a3d617b1f977",
+        "schema": 2,
+        "updatedAt": "2026-07-21"
+      }
+    },
+    {
+      "code": "TM",
+      "file": "brands/TM/brands_TM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "5665af9e0f818989cae89d8be068f5aec6b1a867ce97bc8bfe6e835ec7bcc165",
+      "items": 15,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TM/geo_TM.zip",
+        "sha256": "16ed09dcef4e4407704cb36bd9bcca51b204ebf62cad7bb10db6b56b0bc6f2e7",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "TN",
+      "file": "brands/TN/brands_TN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "157a53d97866d5feb71d7f149ee566c7bf7ee2e24a7a59f875dba1e9f3a99eb9",
+      "items": 172,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TN/geo_TN.zip",
+        "sha256": "4da72c360377a29b529f635c62c882faeab3439afe98649a9c26159855384d03",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "TO",
+      "file": "brands/TO/brands_TO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "647bc35bb0e885872ed5b331fa0a8892c4e43a1a2cf21cdedc7be7d12b9d44e8",
+      "items": 3,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TO/geo_TO.zip",
+        "sha256": "b62c5879e5660f22771a67f228a84974fa7441e9506362183f5913df707be22d",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "TR",
+      "file": "brands/TR/brands_TR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "dab697bfdaa206a677dd001aa98588ff0efafae0a51232b403011ed916c9052d",
+      "items": 578,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TR/geo_TR.zip",
+        "sha256": "659073c749882dec4e2c6e678b1e13d961295c7c8e40a81dc670bb650950fd00",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
+      "code": "TV",
+      "file": "brands/TV/brands_TV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "ddb23fed7c4774ccf649723ab3deee5d38439f5cacca5e91f04c20721084bc46",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TV/geo_TV.zip",
+        "sha256": "6dda3355caa83b53ca38c9c0df4f7b1e307971b4fe1cda388f12fb4b3bc0a039",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "TW",
+      "file": "brands/TW/brands_TW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "ae2ce01fc84b55a6b2425abdde0e2e4ab2777066389107741fdaa6257136bed2",
+      "items": 567,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TW/geo_TW.zip",
+        "sha256": "ac8e8a40811a1370f15ba4d7e51f325460e940edc321cdf856d6d6b9a6a59166",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "TZ",
+      "file": "brands/TZ/brands_TZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "6415c951c181d18f8782f36624ecd70167ad55e5b5b8698b0a87ca5a2c713d55",
+      "items": 82,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TZ/geo_TZ.zip",
+        "sha256": "580c5ddc6fc794eb1cfa2e9623269d77b13502396382b9550f6cf672491b7694",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "UA",
+      "file": "brands/UA/brands_UA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-18",
+      "sha256": "eceb4fc179e75c01c780e3a64425d7b4c46daf3957b71c80c51fd598091caaf5",
+      "items": 871,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/UA/geo_UA.zip",
+        "sha256": "7c69538540cfc129c14441e9d38c0f0882e40b78869814e12751367190fec759",
+        "schema": 2,
+        "updatedAt": "2026-07-18"
+      }
+    },
+    {
+      "code": "UG",
+      "file": "brands/UG/brands_UG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "416efa920513eb8697a0f11bb284d03eb1d31d1da25c67c2e7f5a794b2a71f66",
+      "items": 51,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/UG/geo_UG.zip",
+        "sha256": "0a18306c1a7cb74419edd4aac61ed900f89f2116bd3be57ce08ffc039810acfa",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "US",
+      "file": "brands/US/brands_US.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "ed43231ece762281a2c29e99ea34ffdefaf75705507336a48c5a5b4313e5857e",
+      "items": 3591,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/US/geo_US.zip",
+        "sha256": "0192a6ad720eec1aba3653128c69ee5def8a1b5c7172df20438eac56b35f9330",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "UY",
+      "file": "brands/UY/brands_UY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "c4e0bc0fa739dd90113ea4b84f6cc8ab060de381187602d0b85e9be4fbe70ad8",
+      "items": 106,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/UY/geo_UY.zip",
+        "sha256": "9e6f4590831b1bf166c4a0e50340cc55c77959bfc07e859f3591e251fc4be9e6",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "UZ",
+      "file": "brands/UZ/brands_UZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "183eed58344fbcb4ff3b88f41c1c3664b75f76c6b4eab3a45839f230c806c428",
+      "items": 92,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/UZ/geo_UZ.zip",
+        "sha256": "100d825f13403d687094519f6704edaa6e3d7485cdcd1f56f70f6d5a913f5e20",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "VE",
+      "file": "brands/VE/brands_VE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "d44b43e7221d327656d5d3c6a97f5d31bac740bb6feccae03e78c6bacce58e89",
+      "items": 167,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VE/geo_VE.zip",
+        "sha256": "e430a1759a54e2282084f1dd6a7eb98a09d80720297f5f86ee6599b4c5c3ab30",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "VI",
+      "file": "brands/VI/brands_VI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "75b07e2862a48d5baae66075cef49a46b393cb365ca66b952181c5d0d2be8c69",
+      "items": 26,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VI/geo_VI.zip",
+        "sha256": "f35e3380f5236b419d3536face2bf39176b90aec75701f45a31879eb2aba3d01",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
+      "code": "VN",
+      "file": "brands/VN/brands_VN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "8093f2fc132b4a72b0ebd88e24ed0a6b2addb167abca3833fec451cf326dbe59",
+      "items": 252,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VN/geo_VN.zip",
+        "sha256": "cfc4f2c6a9c407141d0b268ad566a2aefe5eb89efe7f9c01fb09ec3f2011a689",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "VU",
+      "file": "brands/VU/brands_VU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "9b32592691fc5c3dc5836cc3ec1d7390d202701421bd07b921b4e38809ea220b",
+      "items": 7,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VU/geo_VU.zip",
+        "sha256": "10f12087bcd073e43eef8ab3bd1c0054c76f791fcee4b2ea91187671b3bed925",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "WF",
+      "file": "brands/WF/brands_WF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "5367dc6d839784400291efabbfdfaa6826afd9d9963f1041e740e80bf307f39a",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/WF/geo_WF.zip",
+        "sha256": "4d15a9be6ba57cc01d172a80d518d3db184e8813608bdfc836212cef7a42bd86",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "WS",
+      "file": "brands/WS/brands_WS.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e20168206857ea00ac6461f7bc9a7c5ef58b974ce79ab8439f13e7d9ecf09bae",
+      "items": 7,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/WS/geo_WS.zip",
+        "sha256": "dd53eeb46eb14ca4040eb7a5031dd0af604db1531ac580b788cb4a55617731dd",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "XK",
+      "file": "brands/XK/brands_XK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "f8dbe1d31bd8ed040c5ec3de680398014c120bb56c5fab95888aced251a4630e",
+      "items": 105,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/XK/geo_XK.zip",
+        "sha256": "28f6c669816d71ab90c812b29716a2b0530a423d1155fab638cb5ba3462a2658",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "YE",
+      "file": "brands/YE/brands_YE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "d4d273ab376c5ca8e33364bab4c9e3564a0c7d3d9072a903838e94462375e742",
+      "items": 12,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/YE/geo_YE.zip",
+        "sha256": "f563e6425ba2803d3392732e510ab1aee6a6693190fdace33dd23da27ef139d1",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
+      "code": "YT",
+      "file": "brands/YT/brands_YT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "64275fcf937eb753fe9aa14d3423000338e0452a3436a8ff4038876f8c35a8a7",
+      "items": 25,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/YT/geo_YT.zip",
+        "sha256": "72bede9023f30a5b75f5cdcf4d7b50238e339be4fae9984bba85fd77e6adb4aa",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
+      "code": "ZA",
+      "file": "brands/ZA/brands_ZA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "43811825f5ace29fcaa2ce0fc47837bd1293b6e23785448a491d92404b787ac7",
+      "items": 496,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZA/geo_ZA.zip",
+        "sha256": "003744cdd9e5ff81040b50ecbf3be1f7b683016e0f04328a46bdb4cda25edb18",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ZM",
+      "file": "brands/ZM/brands_ZM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "4c4a8d0d55cc60279e3e0babc5aa6ca8f596537961202874abd7eb3269beb578",
+      "items": 50,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZM/geo_ZM.zip",
+        "sha256": "641ce6cad7f0cf22071114242fd7a97e2e3572685e7db9ba9f1c11e9cdcbe689",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    },
+    {
+      "code": "ZW",
+      "file": "brands/ZW/brands_ZW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "a940d167be1eaa9951e1ccb1717ff54c3b601c0bb17e21f4d61b2826c055d91f",
+      "items": 42,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZW/geo_ZW.zip",
+        "sha256": "51397fd4613545fcca89b62584d3a53df4970ef1eccf16785b442ba163cb8c97",
+        "schema": 2,
+        "updatedAt": "2026-07-22"
+      }
+    }
+  ]
+}
