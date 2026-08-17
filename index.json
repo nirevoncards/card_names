@@ -957,9 +957,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GQ/geo_GQ.zip",
-        "sha256": "fd3c0c65618ba85dd7ad71ea2be0f9dc05d07254fabc36c0ba4f91d0d06eec25",
+        "sha256": "4306401274d88ee39252144fc2b23a1d141782b64eed28fd98853ec5ccfacb37",
         "schema": 2,
-        "updatedAt": "2026-07-22"
+        "updatedAt": "2026-08-17"
       }
     },
     {
