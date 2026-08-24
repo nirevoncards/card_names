@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-24",
   "countries": [
     {
       "code": "AD",
@@ -1995,6 +1995,21 @@
         "sha256": "00f9c030b143981b4d4c0e9e58e10bc56200293682a6cab4d46bd50c6c44c1a7",
         "schema": 2,
         "updatedAt": "2026-07-28"
+      }
+    },
+    {
+      "code": "OM",
+      "file": "brands/OM/brands_OM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "f38b93ed04172c78f1e52733670c0c3f51c492a4b5d30920b13104e48391886e",
+      "items": 142,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/OM/geo_OM.zip",
+        "sha256": "af5c9e598e89298da110a9d8814c6c5f4fc28b9073ecd35f6c50fe773a204a94",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
       }
     },
     {
