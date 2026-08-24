@@ -918,6 +918,21 @@
       }
     },
     {
+      "code": "GB",
+      "file": "brands/GB/brands_GB.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "a849ddf06d89e10a36f8f3943764ddd6cae7089ae95428aab65854c82aa5417d",
+      "items": 3016,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GB/geo_GB.zip",
+        "sha256": "886597c9dfa980156296c0cc297b927d73de95958b377efc09ba728a153dd1b5",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "GE",
       "file": "brands/GE/brands_GE.json.zip",
       "schema": 2,
