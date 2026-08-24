@@ -1227,9 +1227,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/IL/geo_IL.zip",
-        "sha256": "fdbfe657c3fa05bdb87c0639cd911986a88352b16cc113af08971de135ecd233",
+        "sha256": "d937ddcb14c6b00d18ebc77daefdebfa5549cdf1713574c1a6abc3bdacd22413",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-08-25"
       }
     },
     {
