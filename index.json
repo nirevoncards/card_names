@@ -1368,6 +1368,21 @@
       }
     },
     {
+      "code": "KW",
+      "file": "brands/KW/brands_KW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-20",
+      "sha256": "6904092b35d2f6037624117f669442d4b749715f065f9bb2222a0b3b705e6c04",
+      "items": 134,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KW/geo_KW.zip",
+        "sha256": "76fa0ac269aebcdef2402ee319c1c59965303273293aedabc3a648010904fbc2",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "KZ",
       "file": "brands/KZ/brands_KZ.json.zip",
       "schema": 2,
