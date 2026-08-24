@@ -948,6 +948,21 @@
       }
     },
     {
+      "code": "GG",
+      "file": "brands/GG/brands_GG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "5cb61a2cb00f91b2e0c4e6266ced0219896db1839114ad64cd403b728c74961d",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GG/geo_GG.zip",
+        "sha256": "fc71b30629d3189da3478c1065813d1b24a1c900caf19ad30572c03c69442b61",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "GH",
       "file": "brands/GH/brands_GH.json.zip",
       "schema": 2,
