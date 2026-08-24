@@ -1797,9 +1797,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NA/geo_NA.zip",
-        "sha256": "6dcebbc2e27e6504491ce1c21172649b2c449d629253a68f09f95d86a3929adb",
+        "sha256": "60c1ddbb5c919ed71a3dbffd56958710ee00a02c49a9bd16d95b8d000b264986",
         "schema": 2,
-        "updatedAt": "2026-07-22"
+        "updatedAt": "2026-08-24"
       }
     },
     {
