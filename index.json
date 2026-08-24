@@ -2388,6 +2388,21 @@
       }
     },
     {
+      "code": "SG",
+      "file": "brands/SG/brands_SG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "db9f4e8f8df22e2a9f3f50e311f8428c37d75c34290c4ec8816566fc128abb2b",
+      "items": 378,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SG/geo_SG.zip",
+        "sha256": "95259b3fec72486246c17cc28d5222de2179d26c5753ee845f4077ae080c65c4",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "SH",
       "file": "brands/SH/brands_SH.json.zip",
       "schema": 2,
