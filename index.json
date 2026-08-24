@@ -693,6 +693,21 @@
       }
     },
     {
+      "code": "DO",
+      "file": "brands/DO/brands_DO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "726554f9845d4e032c1e7761d8dae9385d608340e5c7eb89165caea95d5a0991",
+      "items": 146,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DO/geo_DO.zip",
+        "sha256": "b03af749caf0e4685a0b6dce09eb892b6630e58eb75a3637121bd50cf0b4d2e5",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "DZ",
       "file": "brands/DZ/brands_DZ.json.zip",
       "schema": 2,
