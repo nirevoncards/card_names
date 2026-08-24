@@ -1143,6 +1143,21 @@
       }
     },
     {
+      "code": "IL",
+      "file": "brands/IL/brands_IL.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "4990dacaeb37370e8d5f9c28fef150d088258bf2f7ac24c1a7ff868fcb48d40d",
+      "items": 374,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IL/geo_IL.zip",
+        "sha256": "fdbfe657c3fa05bdb87c0639cd911986a88352b16cc113af08971de135ecd233",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "IM",
       "file": "brands/IM/brands_IM.json.zip",
       "schema": 2,
