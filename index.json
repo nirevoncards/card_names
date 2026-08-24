@@ -2193,6 +2193,21 @@
       }
     },
     {
+      "code": "QA",
+      "file": "brands/QA/brands_QA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "eccf0e6e6805c600725125f1dd8f1b68b0ff4888eed5b031f891623fa6ec08d5",
+      "items": 152,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/QA/geo_QA.zip",
+        "sha256": "b25e1e4c52c8589ed508cb16cc27e6c2fc0484bb9e6e6f168da7a23a04f488d9",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "RE",
       "file": "brands/RE/brands_RE.json.zip",
       "schema": 2,
