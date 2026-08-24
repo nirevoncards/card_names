@@ -213,6 +213,21 @@
       }
     },
     {
+      "code": "BH",
+      "file": "brands/BH/brands_BH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-20",
+      "sha256": "91243e88da1eb473391314ab23b2c72f40f0ba041be66e5f37524ef1156c5ac7",
+      "items": 130,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BH/geo_BH.zip",
+        "sha256": "f9a010dbddd17309dd29fba83e958e718664138f8d295379573b7c6d0cab973a",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "BI",
       "file": "brands/BI/brands_BI.json.zip",
       "schema": 2,
