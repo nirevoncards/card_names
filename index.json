@@ -288,6 +288,21 @@
       }
     },
     {
+      "code": "BN",
+      "file": "brands/BN/brands_BN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-24",
+      "sha256": "c2c176f1218cb54dcc874264c3c80ceb7c1f8e82450979dfdad422d842a7282d",
+      "items": 66,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BN/geo_BN.zip",
+        "sha256": "3bb35afbf29dc8188b2309843d5d9ce041553401d37c49cc85cdbcd8e5f2f4d4",
+        "schema": 2,
+        "updatedAt": "2026-08-24"
+      }
+    },
+    {
       "code": "BO",
       "file": "brands/BO/brands_BO.json.zip",
       "schema": 2,
