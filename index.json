@@ -2547,9 +2547,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SN/geo_SN.zip",
-        "sha256": "b12b2db061174fcebf749a8e17986349a68167330361a3f6a46a0491c6dfcb2c",
+        "sha256": "15459d4ea080971087eeb4f79227d74a9bd2e35eaeae03c6c29c9af4bbc539cb",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-08-25"
       }
     },
     {
