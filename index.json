@@ -1338,6 +1338,21 @@
       }
     },
     {
+      "code": "JE",
+      "file": "brands/JE/brands_JE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-26",
+      "sha256": "67ce089af9d4b99f6e37e35c4dece1565ffcb89bacb92c80010cc19ac490f3f6",
+      "items": 62,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/JE/geo_JE.zip",
+        "sha256": "10bcf62abc9fcb7eec4ebd4efede916cd29335615933d5c81c1ce29c5696b506",
+        "schema": 2,
+        "updatedAt": "2026-08-26"
+      }
+    },
+    {
       "code": "JM",
       "file": "brands/JM/brands_JM.json.zip",
       "schema": 2,
