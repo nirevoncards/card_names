@@ -1173,6 +1173,21 @@
       }
     },
     {
+      "code": "HT",
+      "file": "brands/HT/brands_HT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-26",
+      "sha256": "0caa707693133bac251cd09cf70702b23781474e3f6ed960bb72466f39b8ba40",
+      "items": 26,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HT/geo_HT.zip",
+        "sha256": "2d348c20c366981c578b21bc4e360ba427005a4efc9f8231cd1a56c3c143108a",
+        "schema": 2,
+        "updatedAt": "2026-08-26"
+      }
+    },
+    {
       "code": "HU",
       "file": "brands/HU/brands_HU.json.zip",
       "schema": 2,
