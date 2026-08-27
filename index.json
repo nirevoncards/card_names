@@ -1062,9 +1062,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GQ/geo_GQ.zip",
-        "sha256": "c582122bb5a3f2fd6c694e02daf4dd05d0e01921534d17229e87fcfc14d7371f",
+        "sha256": "31355e2abd535249e000581b1cca9f14350f58e7d0f455d18ba8cb86e94a4488",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-08-28"
       }
     },
     {
