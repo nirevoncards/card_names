@@ -432,9 +432,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/CD/geo_CD.zip",
-        "sha256": "0a8a1d853d104d930f5209dfe987c3e0ffd520c9f0188f17394cdd361a5b82cd",
+        "sha256": "e2df50e24561e6554a063645aec5e5966331f6d18022aa9c0f03f3ce39125e55",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-08-27"
       }
     },
     {
