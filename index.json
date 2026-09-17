@@ -612,7 +612,7 @@
       "compression": "zip",
       "geo": {
         "file": "geo/CV/geo_CV.zip",
-        "sha256": "df9fc8eac5a1587b3c3abc4ca1ec4a8f456718406760152dedd6f26d5493a7fc",
+        "sha256": "de8f0d99c95e41c169665408ae2bd91d3f2f77f230d072332a31f0e926cf613d",
         "schema": 2,
         "updatedAt": "2026-09-17"
       }
