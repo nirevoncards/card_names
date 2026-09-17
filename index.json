@@ -1467,9 +1467,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KM/geo_KM.zip",
-        "sha256": "097678be480f58c08735a73a953b229d16f3adf50eb973d2f559f20ba7315fb0",
+        "sha256": "ba6caeed5ace421eaf165742c135b718934f0e5179b2d377a3014fd5b4332b0d",
         "schema": 2,
-        "updatedAt": "2026-09-14"
+        "updatedAt": "2026-09-17"
       }
     },
     {
