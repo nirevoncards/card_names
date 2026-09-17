@@ -912,9 +912,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GA/geo_GA.zip",
-        "sha256": "33f92c297ee7d52e378570e295a60b5f2f4c73987dc1c1ce613a1cebe4855b81",
+        "sha256": "f9e6e613a2b2f43d543f7f1d0042810a41cf9a9108f2a766e36d9d5e99726454",
         "schema": 2,
-        "updatedAt": "2026-09-15"
+        "updatedAt": "2026-09-17"
       }
     },
     {
