@@ -87,9 +87,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/AO/geo_AO.zip",
-        "sha256": "e9f4949e434d70ddcfe29a58c7e18b04314efeea46ca2991e5c646545e697253",
+        "sha256": "492e494308073d03f6d47894859f78124bc34ac965882f4fb4e2f48840a8f581",
         "schema": 2,
-        "updatedAt": "2026-09-16"
+        "updatedAt": "2026-09-17"
       }
     },
     {
