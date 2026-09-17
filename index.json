@@ -807,9 +807,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ET/geo_ET.zip",
-        "sha256": "95a9cbe78a25e6bd8d3627d8cd29874de692ce9d7143ba2d74f8b0bb643ec5e3",
+        "sha256": "cc3a5f180ff252c6556099b296bcb736ba77aa130da4556d00b48a17647c9ca3",
         "schema": 2,
-        "updatedAt": "2026-09-15"
+        "updatedAt": "2026-09-17"
       }
     },
     {
