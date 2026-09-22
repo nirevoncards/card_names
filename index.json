@@ -1347,9 +1347,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/JE/geo_JE.zip",
-        "sha256": "d0ad9d9c250b46dd9fc865ecb29b0e72b74d9edc9ce424ed53b195cbbb612cc8",
+        "sha256": "b931842734c649419d2c8cbaaec8075d6e7d1557797c0ded3107d97fbf380fae",
         "schema": 2,
-        "updatedAt": "2026-09-17"
+        "updatedAt": "2026-09-22"
       }
     },
     {
