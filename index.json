@@ -1962,9 +1962,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MY/geo_MY.zip",
-        "sha256": "1d68a572fe50f736ca8bcb125683a68c879a3bcda1df92e6feb7fa4eb51870e8",
+        "sha256": "d0ebc33d7a1e2440388ec79071e21c31a4679b9980001851ce8bc76fd8246522",
         "schema": 2,
-        "updatedAt": "2026-09-17"
+        "updatedAt": "2026-09-22"
       }
     },
     {
