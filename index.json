@@ -822,9 +822,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/FI/geo_FI.zip",
-        "sha256": "ffdb811c96d14a2ba3c38fec2580b967e32e8ec035f6d0ad6deafb7a80e6bd40",
+        "sha256": "a2a5a9c653a3e2dbba07eb44930c08c82bba401302cb4a917c2b17c7f44ba0b0",
         "schema": 2,
-        "updatedAt": "2026-07-29"
+        "updatedAt": "2026-09-24"
       }
     },
     {
