@@ -27,9 +27,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/AE/geo_AE.zip",
-        "sha256": "53571d58cb0954cf758e8ade2447a56aec632f6bbe0dd4e3941e5624a755225b",
+        "sha256": "723597a35e9014e8479c09790ac987d4df90fba95ffbc823ee21b6ab583c1127",
         "schema": 2,
-        "updatedAt": "2026-09-24"
+        "updatedAt": "2026-09-28"
       }
     },
     {
