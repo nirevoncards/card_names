@@ -417,9 +417,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/CA/geo_CA.zip",
-        "sha256": "78086b8b681cac1a55b286f3f7eb7f33c645581384081836368f57dea035096c",
+        "sha256": "18d0b104ec86ea95d357a6406cde31966077c5b6d2b35eabed1b81f1ea168a2f",
         "schema": 2,
-        "updatedAt": "2026-09-29"
+        "updatedAt": "2026-09-30"
       }
     },
     {
