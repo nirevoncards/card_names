@@ -2952,9 +2952,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/US/geo_US.zip",
-        "sha256": "04102c15483e6f571ac402e974cbe09858394b2d12aac2c3ced9437924415e8a",
+        "sha256": "395264fae1493dafb37bc58343725674f37840353aa07d7e08e7237407270940",
         "schema": 2,
-        "updatedAt": "2026-10-02"
+        "updatedAt": "2026-10-05"
       }
     },
     {
