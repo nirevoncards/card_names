@@ -972,9 +972,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GG/geo_GG.zip",
-        "sha256": "c6ebeac74e3345f11bbc2a73b5bec98b0effd46d74ea52c5717b58d8a8d2cc30",
+        "sha256": "52a3071a963a409e6c3e2b9ff54fedbc1e9e5857ba09d8318bdfe2088ce8dd75",
         "schema": 2,
-        "updatedAt": "2026-10-06"
+        "updatedAt": "2026-10-08"
       }
     },
     {
