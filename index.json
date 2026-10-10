@@ -2532,9 +2532,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SG/geo_SG.zip",
-        "sha256": "5156478b82cf1e9bb23f5c64d6afc090f828928a0d27a20f419de5f10134cb91",
+        "sha256": "d597a30f5ac238c74baca5e2021b9e95f47a4dce0aa9578985410b6390473ef6",
         "schema": 2,
-        "updatedAt": "2026-10-10"
+        "updatedAt": "2026-10-11"
       }
     },
     {
