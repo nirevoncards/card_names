@@ -3147,9 +3147,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ZM/geo_ZM.zip",
-        "sha256": "641ce6cad7f0cf22071114242fd7a97e2e3572685e7db9ba9f1c11e9cdcbe689",
+        "sha256": "c3e9b1bcaf58d3c30fc6a771d0b3d1642697dd0582e9a27c9129d2ea41f144c9",
         "schema": 2,
-        "updatedAt": "2026-07-22"
+        "updatedAt": "2026-10-11"
       }
     },
     {
