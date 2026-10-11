@@ -2022,9 +2022,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NE/geo_NE.zip",
-        "sha256": "9235e9539e899c895840f8e6d30c1d4a76c4e5adb25961f96431f3c1d15373a2",
+        "sha256": "826d6c22835de5e1c2ebfc3e21af9324c4b67c28b7f9935747ad879079ba17e0",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-10-11"
       }
     },
     {
