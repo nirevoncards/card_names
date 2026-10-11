@@ -1227,9 +1227,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/IE/geo_IE.zip",
-        "sha256": "25418d5d875c64c776a803502baddf4ac53aa153f4cd67cdf2f285a8592fa473",
+        "sha256": "c021fdfd5b691aed562e4f427ab18dd72ab2dae85e0330f4037838bc9e92cd2b",
         "schema": 2,
-        "updatedAt": "2026-10-08"
+        "updatedAt": "2026-10-11"
       }
     },
     {
