@@ -672,9 +672,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/DJ/geo_DJ.zip",
-        "sha256": "752c5321da9dd8c6a20e1912f81ff4131c583e973bca37f07827a66ce85d1d3a",
+        "sha256": "7d3db4de2fa9bc191a75db16d97af9c9345240fa668f51c726aedadde2dd3079",
         "schema": 2,
-        "updatedAt": "2026-09-17"
+        "updatedAt": "2026-10-11"
       }
     },
     {
