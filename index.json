@@ -3162,9 +3162,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ZW/geo_ZW.zip",
-        "sha256": "51397fd4613545fcca89b62584d3a53df4970ef1eccf16785b442ba163cb8c97",
+        "sha256": "91ce58964eeb665512562b5fdda86ef211c34e0b9595e90540425c71374cdde2",
         "schema": 2,
-        "updatedAt": "2026-07-22"
+        "updatedAt": "2026-10-11"
       }
     }
   ]
