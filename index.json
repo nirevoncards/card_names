@@ -2592,9 +2592,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SL/geo_SL.zip",
-        "sha256": "95664fe15ea50fa9c832cbdc785aea337491b745aedbcc4384944b792291f250",
+        "sha256": "5ac1621535bad5a1dd5e9a35c1c787d0f671f3407fb87904396bfc877f36635e",
         "schema": 2,
-        "updatedAt": "2026-07-22"
+        "updatedAt": "2026-10-11"
       }
     },
     {
