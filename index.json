@@ -1977,9 +1977,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MZ/geo_MZ.zip",
-        "sha256": "7f1605998ecffe98a995118c6fd34cbb389d9af7d494d5c97e4722d888771b1d",
+        "sha256": "042f07b1a56812cdeeb0d5a20228ea25338bb55d750a21e4cb5af4af4e997fd1",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-10-11"
       }
     },
     {
