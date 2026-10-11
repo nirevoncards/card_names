@@ -1992,9 +1992,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NA/geo_NA.zip",
-        "sha256": "60c1ddbb5c919ed71a3dbffd56958710ee00a02c49a9bd16d95b8d000b264986",
+        "sha256": "eba877a21c6aa89a56b5e91e1a1382166bf8288a6b55450ee2bc1ea6d1f9d778",
         "schema": 2,
-        "updatedAt": "2026-08-24"
+        "updatedAt": "2026-10-11"
       }
     },
     {
