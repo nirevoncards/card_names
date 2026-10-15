@@ -1617,9 +1617,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/LS/geo_LS.zip",
-        "sha256": "c1d71586d310c74a8505002881adcea50156c3e09e3e0854ddc878ecc2367427",
+        "sha256": "fa88ec168cf3344cc3fd6e31913b84d24b8156b0dc12a6ef6b44e65d6d60eb5c",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-15"
       }
     },
     {
