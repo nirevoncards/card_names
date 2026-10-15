@@ -1752,9 +1752,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MG/geo_MG.zip",
-        "sha256": "46000812cc01f88c7e03de24c03ac0b677aee282bc3251249edf19e9d4e7daa8",
+        "sha256": "37b740cfba8171e873fc56e9bb0356a4834a8c5dfe298b9a3b7fc3ea03285253",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-15"
       }
     },
     {
