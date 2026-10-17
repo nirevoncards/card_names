@@ -2442,9 +2442,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/RW/geo_RW.zip",
-        "sha256": "9998c25928cdd887212422287623a7b3291de499cd6cfe3e7762a0355efe778f",
+        "sha256": "033b707ba6cb4370eb194d9145b66af760478a9310bb3171ca158d8dca2696f1",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
