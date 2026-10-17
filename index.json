@@ -1872,9 +1872,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MR/geo_MR.zip",
-        "sha256": "40e3d5a3b2ddb4d53224f825395b0167e275263459721b1d25372774794e429c",
+        "sha256": "fc6d7f6006041033e9a05d6e66768bc82058d88daad0eea3097bb3b541f56abb",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
