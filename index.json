@@ -2697,9 +2697,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SY/geo_SY.zip",
-        "sha256": "432615e931d553878131881030a42d2603d512fe0bef01a1c0081b6d4ade478b",
+        "sha256": "ffa59577124a73e51fc76bce5cae89e01ec40b9e689d47226b7cd249bced303d",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-10-17"
       }
     },
     {
