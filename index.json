@@ -2772,9 +2772,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/TJ/geo_TJ.zip",
-        "sha256": "2f86d4ee38b5caf3d2e7ed48cf95de8493a3c2172d740c534b8bbde8ebc375ed",
+        "sha256": "3d791fd69add4dacfbd0cde8ddeced2909924d9e4bb2dde2104a787eb7c8c333",
         "schema": 2,
-        "updatedAt": "2026-07-27"
+        "updatedAt": "2026-10-17"
       }
     },
     {
