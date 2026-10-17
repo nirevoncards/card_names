@@ -1827,9 +1827,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MN/geo_MN.zip",
-        "sha256": "fe87511893887d25b33933922727691bd2d910f5a628f5071fcf4e75c22a2f6b",
+        "sha256": "76ff8210197effbc6237da09cab2d119867e04e5b3371d92caf5e322555ac25f",
         "schema": 2,
-        "updatedAt": "2026-07-23"
+        "updatedAt": "2026-10-17"
       }
     },
     {
