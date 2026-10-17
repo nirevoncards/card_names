@@ -1287,9 +1287,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/IQ/geo_IQ.zip",
-        "sha256": "76b38995e6eab0784c8ff044e03f1556d1bef4630492c319af0d07443438e6e2",
+        "sha256": "766ac67669c82e95c6d9b2479955061896dfa24591782259eea31071cfd06115",
         "schema": 2,
-        "updatedAt": "2026-07-23"
+        "updatedAt": "2026-10-17"
       }
     },
     {
