@@ -3102,9 +3102,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/YE/geo_YE.zip",
-        "sha256": "f563e6425ba2803d3392732e510ab1aee6a6693190fdace33dd23da27ef139d1",
+        "sha256": "0f44c745ee77538cbdff8cd784d1e2dddd491b7258accb5d0a290ab5f55ec3fd",
         "schema": 2,
-        "updatedAt": "2026-07-27"
+        "updatedAt": "2026-10-17"
       }
     },
     {
