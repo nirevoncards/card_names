@@ -3027,9 +3027,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/VN/geo_VN.zip",
-        "sha256": "cfc4f2c6a9c407141d0b268ad566a2aefe5eb89efe7f9c01fb09ec3f2011a689",
+        "sha256": "027435eb7b165c11734bf0f99823c26466efe1875199bceb8dea1286041bf466",
         "schema": 2,
-        "updatedAt": "2026-07-27"
+        "updatedAt": "2026-10-17"
       }
     },
     {
