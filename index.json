@@ -1917,9 +1917,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MV/geo_MV.zip",
-        "sha256": "4927c4d4b4639150c2bb39a3bbf7c2194b26ded4f97635d2124feffd06877fb7",
+        "sha256": "2bb28f3640d5bbc4018e7e340b5ca5b09265242391ccc487ce2a6785d6238323",
         "schema": 2,
-        "updatedAt": "2026-07-23"
+        "updatedAt": "2026-10-17"
       }
     },
     {
