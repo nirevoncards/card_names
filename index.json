@@ -2892,9 +2892,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/TW/geo_TW.zip",
-        "sha256": "ac8e8a40811a1370f15ba4d7e51f325460e940edc321cdf856d6d6b9a6a59166",
+        "sha256": "e4c1ca2a34989d5de0cc75b15436f86dc506027298b179f48d9f64462e55f395",
         "schema": 2,
-        "updatedAt": "2026-07-27"
+        "updatedAt": "2026-10-17"
       }
     },
     {
