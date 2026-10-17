@@ -1527,9 +1527,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KZ/geo_KZ.zip",
-        "sha256": "05d757d625010cee8212d1ad0b10e8e7a125bbb65d84f8960c557d8d56697427",
+        "sha256": "1baacde79bd6abd14e0ff482abb1ef66cfe5697c83becd911f907d65102e179a",
         "schema": 2,
-        "updatedAt": "2026-07-23"
+        "updatedAt": "2026-10-17"
       }
     },
     {
