@@ -2457,9 +2457,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SA/geo_SA.zip",
-        "sha256": "d7e734f5de717992e53ea2fb60d3a941cd6bbc2ff0649d57804fd4aeac663872",
+        "sha256": "5d1134cd9179b6562a123e78e015bef93cb47714fedb5b162d19b0fdeda3f632",
         "schema": 2,
-        "updatedAt": "2026-10-16"
+        "updatedAt": "2026-10-17"
       }
     },
     {
