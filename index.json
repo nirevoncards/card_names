@@ -1497,9 +1497,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KR/geo_KR.zip",
-        "sha256": "778bbcd599d1edde299d1748b6041838f28f2ef8fc3557ca0691a5d1e6d15d8a",
+        "sha256": "40acb552e85a5d26df3800ba8323b4dbd42f84dace22138b3df9d7eb46804256",
         "schema": 2,
-        "updatedAt": "2026-07-18"
+        "updatedAt": "2026-10-17"
       }
     },
     {
