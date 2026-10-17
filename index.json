@@ -132,9 +132,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/AU/geo_AU.zip",
-        "sha256": "0fd752ccc03dc6d24fa8baca4e3826357dae8a868d6a63e2c6c6caa08e5a044a",
+        "sha256": "bcc01e658eb692599a085620c6e5264710e83b5dfc23a568c9b45662574db20d",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-10-17"
       }
     },
     {
