@@ -2712,9 +2712,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SZ/geo_SZ.zip",
-        "sha256": "2ea0b392c3cc39deaaae293df09d053535e4768169056291c926658722ec0ace",
+        "sha256": "bde4956912e2f5319fd0a289ddd1e876f2dafceb60f5d812a4e327fac2771dfd",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
