@@ -2007,9 +2007,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NC/geo_NC.zip",
-        "sha256": "6b0ee11570da3c493e778ef542f810fdcb19805c6efef69af47b44e4063545ac",
+        "sha256": "b48325239500cc2c559da8ef2129ce4530efcb828438f5d8c208c04c928d91ba",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-10-18"
       }
     },
     {
