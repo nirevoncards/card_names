@@ -2742,9 +2742,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/TG/geo_TG.zip",
-        "sha256": "8d5970468ffd02d38cc97cfe50378baaa5fa52333092be282f917547329f3c94",
+        "sha256": "a09f08f39253dacb197f509b11cb0f1af6e77f8ced1ded885f59954b968768cb",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
