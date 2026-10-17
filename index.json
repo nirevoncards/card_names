@@ -3132,9 +3132,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ZA/geo_ZA.zip",
-        "sha256": "ad9e11f6ecb65f38e42311932f5e749a8c8e75213fac6222a5522c73ead46ffb",
+        "sha256": "27fc9b18bc9e34b902bd0af86282c178b1af5c55af6cd97635624c538fc03dc0",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
