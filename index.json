@@ -837,9 +837,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/FJ/geo_FJ.zip",
-        "sha256": "7dcc63dc5aad66b67914f7593702afdc770e57fbf37efa4e2e774ed426100acf",
+        "sha256": "2371c813f654abbbf2b2e5b0cac5bf9cc6c3cc75a187dc5c3f5780d5b9a68e6f",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-10-18"
       }
     },
     {
