@@ -1452,9 +1452,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KI/geo_KI.zip",
-        "sha256": "b29d5b5ce0dc6f6cfef7ef85031241c534e906923fc294c81ba89d69b9f86563",
+        "sha256": "273c3115706fd2676c7a8bf3583afbbdc899ca7ee2ec70620f7608216c38e74e",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-10-18"
       }
     },
     {
