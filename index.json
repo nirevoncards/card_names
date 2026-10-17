@@ -147,9 +147,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/AZ/geo_AZ.zip",
-        "sha256": "766f539c7a02854ecf593f76a9656c746f07c13923e320890bf1397db7a43820",
+        "sha256": "4aaa5bd12770e0e498e9782305c77deed52900637f0a78a645e6824fd94efc2e",
         "schema": 2,
-        "updatedAt": "2026-10-11"
+        "updatedAt": "2026-10-17"
       }
     },
     {
