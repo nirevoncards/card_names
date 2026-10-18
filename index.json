@@ -1677,9 +1677,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/LY/geo_LY.zip",
-        "sha256": "1433766677c61d6db2ad51781e1be4665436634d5ae10b67482826f2e91a2163",
+        "sha256": "760aa38d696981272b9c2f384c80983c3280c961aae734ba718dbedbd60067da",
         "schema": 2,
-        "updatedAt": "2026-10-17"
+        "updatedAt": "2026-10-18"
       }
     },
     {
