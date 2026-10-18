@@ -1932,9 +1932,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MW/geo_MW.zip",
-        "sha256": "07ac0a5e610596829cb9121344a2bacc4249c99f8579be3f61468c1d4e48d645",
+        "sha256": "8dbce09777e2b013940583fa1b8c0e7f4004f2857bd54515b45fe1e15433ab21",
         "schema": 2,
-        "updatedAt": "2026-10-17"
+        "updatedAt": "2026-10-18"
       }
     },
     {
