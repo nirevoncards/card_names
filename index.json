@@ -762,9 +762,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/EG/geo_EG.zip",
-        "sha256": "1f5b8146be404d9363862aca45f704290387d678a256014680c30e2b1349fdff",
+        "sha256": "4fb24b5a957c703e7866009d4568dd14395087700fb028cfeb9268ef9836bd04",
         "schema": 2,
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-10-20"
       }
     },
     {
