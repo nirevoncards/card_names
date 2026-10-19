@@ -237,9 +237,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/BH/geo_BH.zip",
-        "sha256": "21e8eee5ec5c761d2954f6daddbc612a52500823a3330a3032d332c1bda85f01",
+        "sha256": "469c059b42b334dc1c701fa7eaf312bc2f7d8cc4927062c3da4fce2a55a1f3cc",
         "schema": 2,
-        "updatedAt": "2026-10-18"
+        "updatedAt": "2026-10-19"
       }
     },
     {
