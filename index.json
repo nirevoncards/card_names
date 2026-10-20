@@ -252,9 +252,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/BI/geo_BI.zip",
-        "sha256": "746259592be1c943929677e165097da80263125671f99091105b0c3c0e8914b2",
+        "sha256": "c04a9f1543efa3e20a7720364547ba50da4e48ee7d574c9acadeaa98bb05f786",
         "schema": 2,
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-10-20"
       }
     },
     {
