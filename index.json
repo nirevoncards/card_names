@@ -1107,9 +1107,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GW/geo_GW.zip",
-        "sha256": "ea5e46c1a42c08e7cb6902fd5bd0a9a17de621b52d4352807e0d293dda716edc",
+        "sha256": "6519f759c4f6ac0ad6534ce848e47073a5634806707fa72a8625d549b5e832cc",
         "schema": 2,
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-10-20"
       }
     },
     {
