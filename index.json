@@ -717,9 +717,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/DZ/geo_DZ.zip",
-        "sha256": "7eff236919dd94be9c23b7d6ae251c68c1b9b587e4acffd72b5b4cdb5c48cc39",
+        "sha256": "d14577ce6456cac78e1f01c138fdb590aebbea7c139b0a02b131344384179240",
         "schema": 2,
-        "updatedAt": "2026-10-20"
+        "updatedAt": "2026-10-22"
       }
     },
     {
