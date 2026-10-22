@@ -1017,9 +1017,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GM/geo_GM.zip",
-        "sha256": "7ba0d01f37c8f8144c25f17d0a7d212b8c29e7677fac1fd2cc5e0818e517751e",
+        "sha256": "b882099106e5aa6d68c634a22ddf9a4924d1aa872eb01a855f43e76caa81f75f",
         "schema": 2,
-        "updatedAt": "2026-10-21"
+        "updatedAt": "2026-10-22"
       }
     },
     {
