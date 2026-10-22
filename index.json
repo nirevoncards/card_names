@@ -702,9 +702,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/DO/geo_DO.zip",
-        "sha256": "ab006da09badbe9cbae37ae6e33797b3d7c4a799fab79ab9d51dc6fd8dd5e1db",
+        "sha256": "c5b307e8381d997340c687b08e541fc086aeb616584ed2ba050734954ed915c7",
         "schema": 2,
-        "updatedAt": "2026-10-21"
+        "updatedAt": "2026-10-22"
       }
     },
     {
