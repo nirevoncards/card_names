@@ -1032,9 +1032,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GN/geo_GN.zip",
-        "sha256": "327bd150ec86fa58ddf0e2c78cafb6352187ecdb1c9ff30f4662236276b5e5fa",
+        "sha256": "6fa1a679880f47b8848997e32d02fdbef719ff6a35e17a55a50c3feed2037522",
         "schema": 2,
-        "updatedAt": "2026-10-21"
+        "updatedAt": "2026-10-28"
       }
     },
     {
