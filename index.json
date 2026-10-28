@@ -912,7 +912,7 @@
       "compression": "zip",
       "geo": {
         "file": "geo/GA/geo_GA.zip",
-        "sha256": "788d503b8a6ab798a4c69aa2c3d0225af845e0e3a1ff215e48104d1b7591f2d1",
+        "sha256": "aed682f6a6e020344fc75090c6057a1e6ad737fff271b502959d55ac6ec0a569",
         "schema": 2,
         "updatedAt": "2026-10-28"
       }
