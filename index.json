@@ -2367,9 +2367,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/QA/geo_QA.zip",
-        "sha256": "55a71f2e2a0ca7d2946c2b4275ac4688c0df8a7a885d0a5da1cad41df05169cb",
+        "sha256": "a3245ec93ec861ae57e44c99722d7e50bbcbb9b5704f2f284ba8980f0ef026cf",
         "schema": 2,
-        "updatedAt": "2026-10-27"
+        "updatedAt": "2026-10-28"
       }
     },
     {
