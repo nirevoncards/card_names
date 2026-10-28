@@ -1602,9 +1602,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/LR/geo_LR.zip",
-        "sha256": "93543a311309b6ecae6cf337dbc9a5e86e88aff6eacb09c16ccb2cb3ca4343f4",
+        "sha256": "8ab968fdb5d96e5cffa233d4acfe1dc2c9f84f71a5118b295ac9ca125c2d6099",
         "schema": 2,
-        "updatedAt": "2026-10-18"
+        "updatedAt": "2026-10-29"
       }
     },
     {
