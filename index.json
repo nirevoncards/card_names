@@ -267,7 +267,7 @@
       "compression": "zip",
       "geo": {
         "file": "geo/BJ/geo_BJ.zip",
-        "sha256": "6cabdc57fa332346f7c589f9fb1a35f600bba4ee5f472c1a74992babe27d947b",
+        "sha256": "b5afe49f3460cd4f7e31d7036a67187937ea6a1a4c2121c638e7d3bb4412d672",
         "schema": 2,
         "updatedAt": "2026-11-04"
       }
