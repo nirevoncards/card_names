@@ -777,9 +777,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ER/geo_ER.zip",
-        "sha256": "7a538edb4b6142875dba1c77d6e3abd87fa1d327becc817fcafd40c4fd8b9550",
+        "sha256": "28c37bc005ab81177a97f35064c77e8fdd90f3f1f2052e452178432cef346443",
         "schema": 2,
-        "updatedAt": "2026-11-04"
+        "updatedAt": "2026-11-18"
       }
     },
     {
