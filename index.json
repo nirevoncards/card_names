@@ -297,9 +297,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/BN/geo_BN.zip",
-        "sha256": "cba7b9e99bec005f2ef64bf5fbdc3ac05e413fe8261bf2ddb3a34b4930c0dd6b",
+        "sha256": "5b5d34b0a4ec00ffd1d881ec699e45747739725d860f00ea3e5d878010558320",
         "schema": 2,
-        "updatedAt": "2026-11-04"
+        "updatedAt": "2026-11-18"
       }
     },
     {
