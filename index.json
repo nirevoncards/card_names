@@ -1902,9 +1902,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MU/geo_MU.zip",
-        "sha256": "393730d24535230289c155073d5587c892b451fb7b38425a7074686c683ab4c6",
+        "sha256": "9d662603d796f9f6913c5ccecbfc3c81b95c7e0844819c8b1946e2f9898ba65a",
         "schema": 2,
-        "updatedAt": "2026-10-18"
+        "updatedAt": "2026-11-18"
       }
     },
     {
