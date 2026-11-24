@@ -1182,9 +1182,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/HT/geo_HT.zip",
-        "sha256": "25f42b2c75e0c79ece0e81534c175eb5bd2a077a9035fb51472cfd51d8efe313",
+        "sha256": "29754f1302b02c94c7de2f797a7b79eacc6886299d012e59b1febd0cf17ede24",
         "schema": 2,
-        "updatedAt": "2026-11-19"
+        "updatedAt": "2026-11-25"
       }
     },
     {
