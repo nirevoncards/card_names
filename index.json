@@ -1512,7 +1512,7 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KW/geo_KW.zip",
-        "sha256": "8d456a9fbea823455fb98b9cf829e7d3cd003ee45b78833cd4468bb782ab2dea",
+        "sha256": "490d690405f5fd9bf79bc39c50469d489eb56a547c8cb5f528c42391ebc88759",
         "schema": 2,
         "updatedAt": "2026-11-24"
       }
